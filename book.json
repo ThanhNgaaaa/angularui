@@ -1,0 +1,1343 @@
+[
+    {
+        "id": 1,
+        "title": "To Kill a Mockingbird",
+        "author": "Ogdan Yvens",
+        "genre": [
+            "mystery",
+            "thriller"
+        ],
+        "description": "Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.",
+        "edition": 5,
+        "quantity": 917,
+        "publisher": "Divape",
+        "release_date": "1709111678000"
+    },
+    {
+        "id": 2,
+        "title": "1984",
+        "author": "Kerby Povlsen",
+        "genre": [
+            "mystery",
+            "sci-fi"
+        ],
+        "description": "Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.",
+        "edition": 0,
+        "quantity": 165,
+        "publisher": "Browsetype",
+        "release_date": "1692065623000"
+    },
+    {
+        "id": 3,
+        "title": "Pride and Prejudice",
+        "author": "Nicky Dearnley",
+        "genre": [
+            "fantasy"
+        ],
+        "description": "Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.\n\nProin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.",
+        "edition": 7,
+        "quantity": 991,
+        "publisher": "Voonyx",
+        "release_date": "1713762760000"
+    },
+    {
+        "id": 4,
+        "title": "The Great Gatsby",
+        "author": "Odell Batt",
+        "genre": [
+            "mystery"
+        ],
+        "description": "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.\n\nEtiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.",
+        "edition": 6,
+        "quantity": 440,
+        "publisher": "Tagpad",
+        "release_date": "1711533615000"
+    },
+    {
+        "id": 5,
+        "title": "Moby-Dick",
+        "author": "Kendricks Sworder",
+        "genre": [
+            "horror",
+            "sci-fi"
+        ],
+        "description": "Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.",
+        "edition": 2,
+        "quantity": 107,
+        "publisher": "Yambee",
+        "release_date": "1705807254000"
+    },
+    {
+        "id": 6,
+        "title": "The Lord of the Rings",
+        "author": "Deloris O' Mulderrig",
+        "genre": [
+            "fantasy"
+        ],
+        "description": "Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.\n\nCras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",
+        "edition": 9,
+        "quantity": 868,
+        "publisher": "Divape",
+        "release_date": "1714161344000"
+    },
+    {
+        "id": 7,
+        "title": "The Catcher in the Rye",
+        "author": "Lissa Muino",
+        "genre": [
+            "sci-fi"
+        ],
+        "description": "Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.\n\nMorbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.",
+        "edition": 0,
+        "quantity": 134,
+        "publisher": "Zava",
+        "release_date": "1703095561000"
+    },
+    {
+        "id": 8,
+        "title": "Honorable",
+        "author": "Cathryn Permain",
+        "genre": [
+            "thriller",
+            "action"
+        ],
+        "description": "In congue. Etiam justo. Etiam pretium iaculis justo.\n\nIn hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.",
+        "edition": 6,
+        "quantity": 290,
+        "publisher": "Tambee",
+        "release_date": "1691210730000"
+    },
+    {
+        "id": 9,
+        "title": "The Hobbit",
+        "author": "Olivero Gittis",
+        "genre": [
+            "comedy"
+        ],
+        "description": "Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.\n\nPhasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.",
+        "edition": 4,
+        "quantity": 357,
+        "publisher": "Flipbug",
+        "release_date": "1694278710000"
+    },
+    {
+        "id": 10,
+        "title": "One Hundred Years of Solitude",
+        "author": "Madonna Kinman",
+        "genre": [
+            "sci-fi"
+        ],
+        "description": "Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.",
+        "edition": 5,
+        "quantity": 520,
+        "publisher": "Shufflebeat",
+        "release_date": "1706885604000"
+    },
+    {
+        "id": 11,
+        "title": "Mrs",
+        "author": "Agna Tomkin",
+        "genre": [
+            "romance"
+        ],
+        "description": "Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.",
+        "edition": 4,
+        "quantity": 205,
+        "publisher": "Skinder",
+        "release_date": "1713363194000"
+    },
+    {
+        "id": 12,
+        "title": "Honorablew",
+        "author": "Lonnie Sidle",
+        "genre": [
+            "action"
+        ],
+        "description": "Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.\n\nNullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.",
+        "edition": 6,
+        "quantity": 604,
+        "publisher": "Tekfly",
+        "release_date": "1698670354000"
+    },
+    {
+        "id": 13,
+        "title": "Honorable and scary",
+        "author": "Theresita Cheers",
+        "genre": [
+            "sci-fi"
+        ],
+        "description": "Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.\n\nInteger tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.",
+        "edition": 2,
+        "quantity": 166,
+        "publisher": "Bubblemix",
+        "release_date": "1693850877000"
+    },
+    {
+        "id": 14,
+        "title": "Mr Ya",
+        "author": "Lowrance Flanagan",
+        "genre": [
+            "thriller",
+            "drama"
+        ],
+        "description": "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+        "edition": 0,
+        "quantity": 899,
+        "publisher": "Divavu",
+        "release_date": "1711140008000"
+    },
+    {
+        "id": 15,
+        "title": "War and Peace",
+        "author": "Josselyn Broek",
+        "genre": [
+            "action"
+        ],
+        "description": "Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.",
+        "edition": 1,
+        "quantity": 480,
+        "publisher": "Trudeo",
+        "release_date": "1690059293000"
+    },
+    {
+        "id": 16,
+        "title": "Ms Nga",
+        "author": "Bax Notman",
+        "genre": [
+            "action"
+        ],
+        "description": "Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.",
+        "edition": 2,
+        "quantity": 573,
+        "publisher": "Rhyloo",
+        "release_date": "1689728318000"
+    },
+    {
+        "id": 17,
+        "title": "Dr Evil",
+        "author": "Cy Stodd",
+        "genre": [
+            "mystery"
+        ],
+        "description": "Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.\n\nProin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.",
+        "edition": 8,
+        "quantity": 690,
+        "publisher": "Yombu",
+        "release_date": "1702846357000"
+    },
+    {
+        "id": 18,
+        "title": "Rev and Lovia",
+        "author": "Thedrick Huskinson",
+        "genre": [
+            "comedy",
+            "romance"
+        ],
+        "description": "Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.\n\nProin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.",
+        "edition": 10,
+        "quantity": 433,
+        "publisher": "Brainverse",
+        "release_date": "1694825183000"
+    },
+    {
+        "id": 19,
+        "title": "The Odyssey",
+        "author": "Hugh Janous",
+        "genre": [
+            "comedy"
+        ],
+        "description": "Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.\n\nDuis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.",
+        "edition": 3,
+        "quantity": 213,
+        "publisher": "InnoZ",
+        "release_date": "1691198963000"
+    },
+    {
+        "id": 20,
+        "title": "The Divine Comedy",
+        "author": "Kerwinn Diwell",
+        "genre": [
+            "drama",
+            "horror"
+        ],
+        "description": "Fusce consequat. Nulla nisl. Nunc nisl.\n\nDuis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.",
+        "edition": 4,
+        "quantity": 603,
+        "publisher": "Yakitri",
+        "release_date": "1717229021000"
+    },
+    {
+        "id": 21,
+        "title": "The Brothers Karamazov",
+        "author": "Keefer Baggs",
+        "genre": [
+            "mystery",
+            "thriller"
+        ],
+        "description": "In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.\n\nNulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.",
+        "edition": 10,
+        "quantity": 472,
+        "publisher": "Tambee",
+        "release_date": "1710974833000"
+    },
+    {
+        "id": 22,
+        "title": "Crime and Punishment",
+        "author": "Clarie Cockell",
+        "genre": [
+            "action"
+        ],
+        "description": "Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.",
+        "edition": 8,
+        "quantity": 140,
+        "publisher": "Rhynoodle",
+        "release_date": "1692223675000"
+    },
+    {
+        "id": 23,
+        "title": "The Picture of Dorian Gray",
+        "author": "Alicea Falk",
+        "genre": [
+            "sci-fi"
+        ],
+        "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.",
+        "edition": 2,
+        "quantity": 519,
+        "publisher": "Ooba",
+        "release_date": "1697265942000"
+    },
+    {
+        "id": 24,
+        "title": "Brave New World",
+        "author": "Farris Smiths",
+        "genre": [
+            "romance",
+            "fantasy"
+        ],
+        "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.\n\nVestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.",
+        "edition": 0,
+        "quantity": 944,
+        "publisher": "Voomm",
+        "release_date": "1689846306000"
+    },
+    {
+        "id": 25,
+        "title": "The Count of Monte Cristo",
+        "author": "Lemar McMeeking",
+        "genre": [
+            "comedy"
+        ],
+        "description": "Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",
+        "edition": 2,
+        "quantity": 412,
+        "publisher": "Gabtune",
+        "release_date": "1702683683000"
+    },
+    {
+        "id": 26,
+        "title": "Anna Karenina",
+        "author": "Janine Tebbutt",
+        "genre": [
+            "action"
+        ],
+        "description": "Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.\n\nIn sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.",
+        "edition": 1,
+        "quantity": 726,
+        "publisher": "Thoughtsphere",
+        "release_date": "1687951241000"
+    },
+    {
+        "id": 27,
+        "title": "The Alchemist",
+        "author": "Daveen Osinin",
+        "genre": [
+            "sci-fi",
+            "drama"
+        ],
+        "description": "Phasellus in felis. Donec semper sapien a libero. Nam dui.\n\nProin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.",
+        "edition": 1,
+        "quantity": 157,
+        "publisher": "Oyonder",
+        "release_date": "1693892292000"
+    },
+    {
+        "id": 28,
+        "title": "The Adventures of Huckleberry Finn",
+        "author": "Stevena Millhill",
+        "genre": [
+            "thriller",
+            "fantasy"
+        ],
+        "description": "Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.\n\nMaecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.",
+        "edition": 8,
+        "quantity": 451,
+        "publisher": "Aivee",
+        "release_date": "1711826815000"
+    },
+    {
+        "id": 29,
+        "title": "The Iliad",
+        "author": "Asa Licciardello",
+        "genre": [
+            "horror"
+        ],
+        "description": "Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.\n\nIn congue. Etiam justo. Etiam pretium iaculis justo.",
+        "edition": 6,
+        "quantity": 281,
+        "publisher": "Zazio",
+        "release_date": "1711949885000"
+    },
+    {
+        "id": 30,
+        "title": "Honorable",
+        "author": "Dorotea Larman",
+        "genre": [
+            "sci-fi"
+        ],
+        "description": "Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.\n\nAenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.",
+        "edition": 9,
+        "quantity": 940,
+        "publisher": "Demivee",
+        "release_date": "1709217400000"
+    },
+    {
+        "id": 31,
+        "title": "Rev",
+        "author": "Honey Lay",
+        "genre": [
+            "comedy",
+            "action"
+        ],
+        "description": "Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.\n\nMaecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.",
+        "edition": 9,
+        "quantity": 873,
+        "publisher": "Rhynoodle",
+        "release_date": "1696463992000"
+    },
+    {
+        "id": 32,
+        "title": "Rev",
+        "author": "Farlie Antoniewski",
+        "genre": [
+            "horror",
+            "thriller"
+        ],
+        "description": "Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.",
+        "edition": 10,
+        "quantity": 839,
+        "publisher": "Ozu",
+        "release_date": "1701028670000"
+    },
+    {
+        "id": 33,
+        "title": "Rev",
+        "author": "Nance Scholtz",
+        "genre": [
+            "drama"
+        ],
+        "description": "Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.",
+        "edition": 6,
+        "quantity": 157,
+        "publisher": "Thoughtstorm",
+        "release_date": "1698189852000"
+    },
+    {
+        "id": 34,
+        "title": "Mr",
+        "author": "Maisie Spraggs",
+        "genre": [
+            "comedy"
+        ],
+        "description": "Phasellus in felis. Donec semper sapien a libero. Nam dui.\n\nProin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.",
+        "edition": 9,
+        "quantity": 179,
+        "publisher": "Twimm",
+        "release_date": "1704780979000"
+    },
+    {
+        "id": 35,
+        "title": "Ms",
+        "author": "Bronny Greeve",
+        "genre": [
+            "sci-fi",
+            "thriller"
+        ],
+        "description": "Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.",
+        "edition": 0,
+        "quantity": 959,
+        "publisher": "Quire",
+        "release_date": "1701808899000"
+    },
+    {
+        "id": 36,
+        "title": "Mrs",
+        "author": "Tedmund Lawly",
+        "genre": [
+            "sci-fi",
+            "comedy"
+        ],
+        "description": "Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.\n\nProin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.",
+        "edition": 2,
+        "quantity": 579,
+        "publisher": "Jaxbean",
+        "release_date": "1716195974000"
+    },
+    {
+        "id": 37,
+        "title": "Rev",
+        "author": "Andree Cornely",
+        "genre": [
+            "fantasy",
+            "romance"
+        ],
+        "description": "In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.",
+        "edition": 0,
+        "quantity": 50,
+        "publisher": "Edgeify",
+        "release_date": "1703152123000"
+    },
+    {
+        "id": 38,
+        "title": "Mr",
+        "author": "Stavro Lorrie",
+        "genre": [
+            "fantasy"
+        ],
+        "description": "In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.\n\nSuspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.",
+        "edition": 0,
+        "quantity": 721,
+        "publisher": "Devpoint",
+        "release_date": "1694880290000"
+    },
+    {
+        "id": 39,
+        "title": "Mr",
+        "author": "Ramon Atkin",
+        "genre": [
+            "adventure"
+        ],
+        "description": "Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.\n\nInteger tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.",
+        "edition": 1,
+        "quantity": 295,
+        "publisher": "Avavee",
+        "release_date": "1714122646000"
+    },
+    {
+        "id": 40,
+        "title": "Rev",
+        "author": "Shepperd Riddick",
+        "genre": [
+            "action"
+        ],
+        "description": "Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.",
+        "edition": 2,
+        "quantity": 983,
+        "publisher": "Devcast",
+        "release_date": "1697124361000"
+    },
+    {
+        "id": 41,
+        "title": "Dr",
+        "author": "Cassandry Francello",
+        "genre": [
+            "comedy",
+            "drama"
+        ],
+        "description": "Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.\n\nMaecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.",
+        "edition": 0,
+        "quantity": 939,
+        "publisher": "Flipopia",
+        "release_date": "1716597234000"
+    },
+    {
+        "id": 42,
+        "title": "Rev",
+        "author": "Maurizio Sirl",
+        "genre": [
+            "horror"
+        ],
+        "description": "Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.\n\nCras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",
+        "edition": 6,
+        "quantity": 91,
+        "publisher": "Shuffledrive",
+        "release_date": "1713080005000"
+    },
+    {
+        "id": 43,
+        "title": "Mr",
+        "author": "Jerri Seabrooke",
+        "genre": [
+            "comedy",
+            "horror"
+        ],
+        "description": "Fusce consequat. Nulla nisl. Nunc nisl.",
+        "edition": 6,
+        "quantity": 569,
+        "publisher": "Jazzy",
+        "release_date": "1706263417000"
+    },
+    {
+        "id": 44,
+        "title": "Mr",
+        "author": "Yvon Purse",
+        "genre": [
+            "comedy"
+        ],
+        "description": "Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.\n\nMorbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.",
+        "edition": 5,
+        "quantity": 529,
+        "publisher": "Abata",
+        "release_date": "1703022917000"
+    },
+    {
+        "id": 45,
+        "title": "Honorable",
+        "author": "Stefanie Wrankling",
+        "genre": [
+            "action",
+            "mystery"
+        ],
+        "description": "Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.",
+        "edition": 4,
+        "quantity": 442,
+        "publisher": "Topicshots",
+        "release_date": "1710913294000"
+    },
+    {
+        "id": 46,
+        "title": "Dr",
+        "author": "Earvin Ruspine",
+        "genre": [
+            "sci-fi",
+            "mystery"
+        ],
+        "description": "In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.\n\nAliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.",
+        "edition": 6,
+        "quantity": 896,
+        "publisher": "Jabbercube",
+        "release_date": "1706275793000"
+    },
+    {
+        "id": 47,
+        "title": "Dr",
+        "author": "Constantina Hallad",
+        "genre": [
+            "drama"
+        ],
+        "description": "In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.",
+        "edition": 7,
+        "quantity": 271,
+        "publisher": "Gevee",
+        "release_date": "1688191460000"
+    },
+    {
+        "id": 48,
+        "title": "Mr",
+        "author": "Odessa Beevors",
+        "genre": [
+            "thriller",
+            "drama"
+        ],
+        "description": "Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.\n\nCurabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.",
+        "edition": 3,
+        "quantity": 220,
+        "publisher": "Latz",
+        "release_date": "1705615946000"
+    },
+    {
+        "id": 49,
+        "title": "Ms",
+        "author": "Sisely Panswick",
+        "genre": [
+            "sci-fi"
+        ],
+        "description": "In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.\n\nSuspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.",
+        "edition": 5,
+        "quantity": 128,
+        "publisher": "Eadel",
+        "release_date": "1694467848000"
+    },
+    {
+        "id": 50,
+        "title": "Dr",
+        "author": "Lane Sheldrick",
+        "genre": [
+            "fantasy",
+            "mystery"
+        ],
+        "description": "Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.",
+        "edition": 5,
+        "quantity": 932,
+        "publisher": "Rhynoodle",
+        "release_date": "1717609558000"
+    },
+    {
+        "id": 51,
+        "title": "Mr",
+        "author": "Aurel Syder",
+        "genre": [
+            "comedy",
+            "drama"
+        ],
+        "description": "Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.",
+        "edition": 7,
+        "quantity": 297,
+        "publisher": "Demivee",
+        "release_date": "1698041057000"
+    },
+    {
+        "id": 52,
+        "title": "Mr",
+        "author": "Sheba Pattesall",
+        "genre": [
+            "horror"
+        ],
+        "description": "Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.",
+        "edition": 0,
+        "quantity": 754,
+        "publisher": "Feednation",
+        "release_date": "1689788758000"
+    },
+    {
+        "id": 53,
+        "title": "Mrs",
+        "author": "Vallie Curnow",
+        "genre": [
+            "thriller"
+        ],
+        "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.\n\nVestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.",
+        "edition": 4,
+        "quantity": 127,
+        "publisher": "Tekfly",
+        "release_date": "1688983917000"
+    },
+    {
+        "id": 54,
+        "title": "Dr",
+        "author": "Cecilla Kimbell",
+        "genre": [
+            "drama"
+        ],
+        "description": "Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.",
+        "edition": 6,
+        "quantity": 91,
+        "publisher": "Twitterwire",
+        "release_date": "1705725068000"
+    },
+    {
+        "id": 55,
+        "title": "Mrs",
+        "author": "Kristi Spinetti",
+        "genre": [
+            "drama",
+            "mystery"
+        ],
+        "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.\n\nVestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.",
+        "edition": 6,
+        "quantity": 235,
+        "publisher": "Flashspan",
+        "release_date": "1703649311000"
+    },
+    {
+        "id": 56,
+        "title": "Rev",
+        "author": "Odie O'Neal",
+        "genre": [
+            "comedy"
+        ],
+        "description": "Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.",
+        "edition": 10,
+        "quantity": 842,
+        "publisher": "Miboo",
+        "release_date": "1710288677000"
+    },
+    {
+        "id": 57,
+        "title": "Ms",
+        "author": "Dulcea Loncaster",
+        "genre": [
+            "comedy"
+        ],
+        "description": "In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.",
+        "edition": 2,
+        "quantity": 194,
+        "publisher": "Youfeed",
+        "release_date": "1715501853000"
+    },
+    {
+        "id": 58,
+        "title": "Rev",
+        "author": "Teador Fiddy",
+        "genre": [
+            "fantasy"
+        ],
+        "description": "Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.",
+        "edition": 10,
+        "quantity": 780,
+        "publisher": "Twinte",
+        "release_date": "1708196227000"
+    },
+    {
+        "id": 59,
+        "title": "Mrs",
+        "author": "Leonhard Bleything",
+        "genre": [
+            "adventure",
+            "horror"
+        ],
+        "description": "Fusce consequat. Nulla nisl. Nunc nisl.",
+        "edition": 9,
+        "quantity": 551,
+        "publisher": "Linkbridge",
+        "release_date": "1711626866000"
+    },
+    {
+        "id": 60,
+        "title": "Ms",
+        "author": "Emilio Devonport",
+        "genre": [
+            "thriller",
+            "romance"
+        ],
+        "description": "Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.",
+        "edition": 8,
+        "quantity": 128,
+        "publisher": "Skiba",
+        "release_date": "1710364549000"
+    },
+    {
+        "id": 61,
+        "title": "Ms",
+        "author": "Paulo Salvadori",
+        "genre": [
+            "comedy"
+        ],
+        "description": "Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.\n\nCurabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.",
+        "edition": 2,
+        "quantity": 513,
+        "publisher": "Skibox",
+        "release_date": "1709172134000"
+    },
+    {
+        "id": 62,
+        "title": "Rev",
+        "author": "Timmi Keig",
+        "genre": [
+            "adventure"
+        ],
+        "description": "Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.\n\nNullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.",
+        "edition": 0,
+        "quantity": 155,
+        "publisher": "Mydo",
+        "release_date": "1718030227000"
+    },
+    {
+        "id": 63,
+        "title": "Rev",
+        "author": "Vaughan Minkin",
+        "genre": [
+            "adventure",
+            "mystery"
+        ],
+        "description": "Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.",
+        "edition": 4,
+        "quantity": 217,
+        "publisher": "Bubbletube",
+        "release_date": "1712246114000"
+    },
+    {
+        "id": 64,
+        "title": "Dr",
+        "author": "Lisette Semonin",
+        "genre": [
+            "action",
+            "drama"
+        ],
+        "description": "Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.\n\nQuisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.",
+        "edition": 2,
+        "quantity": 840,
+        "publisher": "Skalith",
+        "release_date": "1704922783000"
+    },
+    {
+        "id": 65,
+        "title": "Ms",
+        "author": "Correy Huelin",
+        "genre": [
+            "thriller"
+        ],
+        "description": "In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.",
+        "edition": 8,
+        "quantity": 65,
+        "publisher": "Babbleset",
+        "release_date": "1704615997000"
+    },
+    {
+        "id": 66,
+        "title": "Dr",
+        "author": "Lalo Trowsdall",
+        "genre": [
+            "comedy"
+        ],
+        "description": "Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.",
+        "edition": 10,
+        "quantity": 230,
+        "publisher": "Topdrive",
+        "release_date": "1718102230000"
+    },
+    {
+        "id": 67,
+        "title": "Honorable",
+        "author": "Deanne Paddick",
+        "genre": [
+            "adventure",
+            "horror"
+        ],
+        "description": "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.\n\nEtiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.",
+        "edition": 10,
+        "quantity": 403,
+        "publisher": "Nlounge",
+        "release_date": "1717980393000"
+    },
+    {
+        "id": 68,
+        "title": "Dr",
+        "author": "Glen Reightley",
+        "genre": [
+            "fantasy",
+            "horror"
+        ],
+        "description": "Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.",
+        "edition": 4,
+        "quantity": 499,
+        "publisher": "Wordpedia",
+        "release_date": "1713680974000"
+    },
+    {
+        "id": 69,
+        "title": "Dr",
+        "author": "Lacie Wonham",
+        "genre": [
+            "romance"
+        ],
+        "description": "Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.",
+        "edition": 8,
+        "quantity": 988,
+        "publisher": "Zava",
+        "release_date": "1716894906000"
+    },
+    {
+        "id": 70,
+        "title": "Dr",
+        "author": "Marysa Rockall",
+        "genre": [
+            "romance"
+        ],
+        "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.\n\nVestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.",
+        "edition": 3,
+        "quantity": 963,
+        "publisher": "Yoveo",
+        "release_date": "1688393228000"
+    },
+    {
+        "id": 71,
+        "title": "Rev",
+        "author": "Cris Hortop",
+        "genre": [
+            "action"
+        ],
+        "description": "Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.\n\nSed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.",
+        "edition": 4,
+        "quantity": 498,
+        "publisher": "Twitterwire",
+        "release_date": "1695284689000"
+    },
+    {
+        "id": 72,
+        "title": "Rev",
+        "author": "Milissent Lismore",
+        "genre": [
+            "romance"
+        ],
+        "description": "Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.\n\nProin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.",
+        "edition": 6,
+        "quantity": 816,
+        "publisher": "Mudo",
+        "release_date": "1695296002000"
+    },
+    {
+        "id": 73,
+        "title": "Dr",
+        "author": "Raquela Roke",
+        "genre": [
+            "fantasy",
+            "drama"
+        ],
+        "description": "Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.",
+        "edition": 9,
+        "quantity": 590,
+        "publisher": "Fivebridge",
+        "release_date": "1716011964000"
+    },
+    {
+        "id": 74,
+        "title": "Mrs",
+        "author": "Roscoe Jancey",
+        "genre": [
+            "horror",
+            "romance"
+        ],
+        "description": "Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.\n\nInteger ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.",
+        "edition": 5,
+        "quantity": 867,
+        "publisher": "Vinte",
+        "release_date": "1687407827000"
+    },
+    {
+        "id": 75,
+        "title": "Dr",
+        "author": "Marianne Beamson",
+        "genre": [
+            "mystery",
+            "adventure"
+        ],
+        "description": "Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.",
+        "edition": 10,
+        "quantity": 269,
+        "publisher": "Fiveclub",
+        "release_date": "1718485145000"
+    },
+    {
+        "id": 76,
+        "title": "Mrs",
+        "author": "Bertie Fearnside",
+        "genre": [
+            "comedy"
+        ],
+        "description": "Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.\n\nProin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.",
+        "edition": 6,
+        "quantity": 238,
+        "publisher": "Digitube",
+        "release_date": "1716279987000"
+    },
+    {
+        "id": 77,
+        "title": "Rev",
+        "author": "Ronda Danslow",
+        "genre": [
+            "thriller"
+        ],
+        "description": "Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.",
+        "edition": 10,
+        "quantity": 797,
+        "publisher": "Roomm",
+        "release_date": "1703165699000"
+    },
+    {
+        "id": 78,
+        "title": "Honorable",
+        "author": "Marshal Gotthard",
+        "genre": [
+            "horror"
+        ],
+        "description": "Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.\n\nDuis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.",
+        "edition": 0,
+        "quantity": 647,
+        "publisher": "Katz",
+        "release_date": "1711308637000"
+    },
+    {
+        "id": 79,
+        "title": "Dr",
+        "author": "Manya Dell 'Orto",
+        "genre": [
+            "drama",
+            "adventure"
+        ],
+        "description": "Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.\n\nNullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.",
+        "edition": 7,
+        "quantity": 209,
+        "publisher": "Wordpedia",
+        "release_date": "1692405342000"
+    },
+    {
+        "id": 80,
+        "title": "Rev",
+        "author": "Peyter Medhurst",
+        "genre": [
+            "adventure",
+            "drama"
+        ],
+        "description": "Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.",
+        "edition": 6,
+        "quantity": 802,
+        "publisher": "Meetz",
+        "release_date": "1711319488000"
+    },
+    {
+        "id": 81,
+        "title": "Ms",
+        "author": "Shaw Cockings",
+        "genre": [
+            "adventure",
+            "romance"
+        ],
+        "description": "Sed ante. Vivamus tortor. Duis mattis egestas metus.\n\nAenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.",
+        "edition": 1,
+        "quantity": 180,
+        "publisher": "Minyx",
+        "release_date": "1698086394000"
+    },
+    {
+        "id": 82,
+        "title": "Mrs",
+        "author": "Cati Mation",
+        "genre": [
+            "sci-fi"
+        ],
+        "description": "Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.",
+        "edition": 10,
+        "quantity": 128,
+        "publisher": "Agivu",
+        "release_date": "1690860322000"
+    },
+    {
+        "id": 83,
+        "title": "Mrs",
+        "author": "Tanya Diamond",
+        "genre": [
+            "drama"
+        ],
+        "description": "Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.",
+        "edition": 6,
+        "quantity": 916,
+        "publisher": "Quire",
+        "release_date": "1692257747000"
+    },
+    {
+        "id": 84,
+        "title": "Rev",
+        "author": "Beckie Peto",
+        "genre": [
+            "horror"
+        ],
+        "description": "In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.\n\nSuspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.",
+        "edition": 6,
+        "quantity": 75,
+        "publisher": "Linkbuzz",
+        "release_date": "1713883488000"
+    },
+    {
+        "id": 85,
+        "title": "Ms",
+        "author": "Thibaud MacGuffog",
+        "genre": [
+            "horror"
+        ],
+        "description": "Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.\n\nDonec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.",
+        "edition": 3,
+        "quantity": 940,
+        "publisher": "LiveZ",
+        "release_date": "1713423143000"
+    },
+    {
+        "id": 86,
+        "title": "Ms",
+        "author": "Charlton Iggalden",
+        "genre": [
+            "fantasy",
+            "action"
+        ],
+        "description": "Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.\n\nIn quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.",
+        "edition": 9,
+        "quantity": 273,
+        "publisher": "Shufflebeat",
+        "release_date": "1703008417000"
+    },
+    {
+        "id": 87,
+        "title": "Mr",
+        "author": "Clemmie Dowsett",
+        "genre": [
+            "adventure"
+        ],
+        "description": "Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.",
+        "edition": 7,
+        "quantity": 717,
+        "publisher": "Meemm",
+        "release_date": "1691079427000"
+    },
+    {
+        "id": 88,
+        "title": "Mrs",
+        "author": "Alayne Plevin",
+        "genre": [
+            "comedy",
+            "mystery"
+        ],
+        "description": "Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.",
+        "edition": 2,
+        "quantity": 786,
+        "publisher": "Jaxbean",
+        "release_date": "1703724087000"
+    },
+    {
+        "id": 89,
+        "title": "Honorable",
+        "author": "Garnette Brockway",
+        "genre": [
+            "romance",
+            "comedy"
+        ],
+        "description": "Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.",
+        "edition": 10,
+        "quantity": 267,
+        "publisher": "Tanoodle",
+        "release_date": "1712845723000"
+    },
+    {
+        "id": 90,
+        "title": "Mrs",
+        "author": "Gill Jeannot",
+        "genre": [
+            "fantasy"
+        ],
+        "description": "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.\n\nEtiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.",
+        "edition": 9,
+        "quantity": 23,
+        "publisher": "Yacero",
+        "release_date": "1716615055000"
+    },
+    {
+        "id": 91,
+        "title": "Ms",
+        "author": "Madelaine Moscon",
+        "genre": [
+            "horror"
+        ],
+        "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.\n\nVestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.",
+        "edition": 6,
+        "quantity": 232,
+        "publisher": "Feedmix",
+        "release_date": "1688325750000"
+    },
+    {
+        "id": 92,
+        "title": "Honorable",
+        "author": "Locke Duell",
+        "genre": [
+            "romance",
+            "adventure"
+        ],
+        "description": "Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.\n\nQuisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.",
+        "edition": 3,
+        "quantity": 916,
+        "publisher": "Jaxbean",
+        "release_date": "1705732507000"
+    },
+    {
+        "id": 93,
+        "title": "Rev",
+        "author": "Josepha Butterwick",
+        "genre": [
+            "thriller"
+        ],
+        "description": "In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.",
+        "edition": 7,
+        "quantity": 94,
+        "publisher": "Trunyx",
+        "release_date": "1699832410000"
+    },
+    {
+        "id": 94,
+        "title": "Rev",
+        "author": "Dillon Inchcomb",
+        "genre": [
+            "thriller"
+        ],
+        "description": "Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.\n\nSed ante. Vivamus tortor. Duis mattis egestas metus.",
+        "edition": 7,
+        "quantity": 58,
+        "publisher": "Aimbu",
+        "release_date": "1691832374000"
+    },
+    {
+        "id": 95,
+        "title": "Mrs",
+        "author": "Ruperto Colliar",
+        "genre": [
+            "action",
+            "comedy"
+        ],
+        "description": "Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.\n\nQuisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.",
+        "edition": 5,
+        "quantity": 383,
+        "publisher": "Kazu",
+        "release_date": "1714973646000"
+    },
+    {
+        "id": 96,
+        "title": "Mr",
+        "author": "Camel Hartfleet",
+        "genre": [
+            "fantasy"
+        ],
+        "description": "Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.\n\nDonec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.",
+        "edition": 1,
+        "quantity": 347,
+        "publisher": "Twitterwire",
+        "release_date": "1709730174000"
+    },
+    {
+        "id": 97,
+        "title": "Honorable",
+        "author": "Rustie Barthram",
+        "genre": [
+            "thriller"
+        ],
+        "description": "Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.\n\nPraesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.",
+        "edition": 9,
+        "quantity": 402,
+        "publisher": "Kazio",
+        "release_date": "1718185826000"
+    },
+    {
+        "id": 98,
+        "title": "Honorable",
+        "author": "Matthus Aronson",
+        "genre": [
+            "adventure"
+        ],
+        "description": "In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.",
+        "edition": 6,
+        "quantity": 142,
+        "publisher": "Shufflebeat",
+        "release_date": "1693449101000"
+    },
+    {
+        "id": 99,
+        "title": "Mrs",
+        "author": "Sarah Kinzel",
+        "genre": [
+            "action"
+        ],
+        "description": "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.\n\nEtiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.",
+        "edition": 6,
+        "quantity": 450,
+        "publisher": "Plambee",
+        "release_date": "1710606564000"
+    },
+    {
+        "id": 100,
+        "title": "Mrs",
+        "author": "Reynard Bodycombe",
+        "genre": [
+            "horror"
+        ],
+        "description": "Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.\n\nAenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.",
+        "edition": 4,
+        "quantity": 704,
+        "publisher": "Fiveclub",
+        "release_date": "1708119627000"
+    }
+]
