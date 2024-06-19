@@ -1,0 +1,102 @@
+[
+    {
+        "id": 1,
+        "code": "ITA",
+        "name": "System Administrator",
+        "permissions": []
+    },
+    {
+        "id": 2,
+        "code": "PO",
+        "name": "Production Manager",
+        "permissions": []
+    },
+    {
+        "id": 3,
+        "code": "LM",
+        "name": "Line Manager",
+        "description": "",
+        "permissions": []
+    },
+    {
+        "id": 4,
+        "code": "SM",
+        "name": "Shift Manager",
+        "description": "",
+        "permissions": []
+    },
+    {
+        "id": 5,
+        "code": "PCM",
+        "name": "Procurement Manager",
+        "description": "",
+        "permissions": []
+    },
+    {
+        "id": 6,
+        "code": "STM",
+        "name": "Store Manager",
+        "description": "",
+        "permissions": []
+    },
+    {
+        "id": 7,
+        "code": "DRT",
+        "name": "Director",
+        "description": "",
+        "permissions": []
+    },
+    {
+        "id": 8,
+        "code": "CA",
+        "name": "Chief Accounting",
+        "description": "",
+        "permissions": []
+    },
+    {
+        "id": 9,
+        "code": "AC",
+        "name": "Accounting",
+        "description": "",
+        "permissions": []
+    },
+    {
+        "id": 10,
+        "code": "QA",
+        "name": "Quality Assurance",
+        "permissions": []
+    },
+    {
+        "id": 11,
+        "code": "OP",
+        "name": "Operator",
+        "description": "",
+        "permissions": []
+    },
+    {
+        "id": 12,
+        "code": "GUEST",
+        "name": "Guest",
+        "permissions": []
+    },
+    {
+        "id": 13,
+        "code": "TestPM",
+        "name": "TestPM",
+        "description": "Dùng test",
+        "permissions": []
+    },
+    {
+        "id": 14,
+        "code": "KhanhTEST",
+        "name": "KhanhTEST",
+        "description": "KhanhTEST",
+        "permissions": []
+    },
+    {
+        "id": 15,
+        "code": "Role_0123",
+        "name": "Dieu_Test",
+        "permissions": []
+    }
+]
