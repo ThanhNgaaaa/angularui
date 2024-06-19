@@ -1,0 +1,16 @@
+{
+    "ts": 1718791190932,
+    "status": 200,
+    "success": true,
+    "data": [
+        {
+            "createdDate": "2024-04-26T09:29:32.889",
+            "updatedDate": "2024-04-26T09:29:58.775",
+            "id": 2,
+            "provider": "AKM",
+            "profile": "STADA 0.1.41",
+            "status": "ACTIVE"
+        }
+    ],
+    "fields": []
+}
