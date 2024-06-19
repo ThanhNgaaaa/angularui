@@ -2,7 +2,7 @@
     {
         "id": 1,
         "title": "To Kill a Mockingbird",
-        "author": "Ogdan Yvens",
+        "author": "William Shakespeare",
         "genre": [
             "mystery",
             "thriller"
@@ -16,7 +16,7 @@
     {
         "id": 2,
         "title": "1984",
-        "author": "Kerby Povlsen",
+        "author": "Jane Austen",
         "genre": [
             "mystery",
             "sci-fi"
@@ -30,7 +30,7 @@
     {
         "id": 3,
         "title": "Pride and Prejudice",
-        "author": "Nicky Dearnley",
+        "author": "Jane Austen",
         "genre": [
             "fantasy"
         ],
@@ -43,7 +43,7 @@
     {
         "id": 4,
         "title": "The Great Gatsby",
-        "author": "Odell Batt",
+        "author": "Leo Tolstoy",
         "genre": [
             "mystery"
         ],
@@ -56,7 +56,7 @@
     {
         "id": 5,
         "title": "Moby-Dick",
-        "author": "Kendricks Sworder",
+        "author": "Leo Tolstoy",
         "genre": [
             "horror",
             "sci-fi"
@@ -70,7 +70,7 @@
     {
         "id": 6,
         "title": "The Lord of the Rings",
-        "author": "Deloris O' Mulderrig",
+        "author": "William Shakespeare",
         "genre": [
             "fantasy"
         ],
@@ -83,7 +83,7 @@
     {
         "id": 7,
         "title": "The Catcher in the Rye",
-        "author": "Lissa Muino",
+        "author": "Leo Tolstoy",
         "genre": [
             "sci-fi"
         ],
@@ -96,7 +96,7 @@
     {
         "id": 8,
         "title": "Honorable",
-        "author": "Cathryn Permain",
+        "author": "William Shakespeare",
         "genre": [
             "thriller",
             "action"
@@ -110,7 +110,7 @@
     {
         "id": 9,
         "title": "The Hobbit",
-        "author": "Olivero Gittis",
+        "author": "Gabriel Garcia Marquez",
         "genre": [
             "comedy"
         ],
@@ -123,7 +123,7 @@
     {
         "id": 10,
         "title": "One Hundred Years of Solitude",
-        "author": "Madonna Kinman",
+        "author": "William Shakespeare",
         "genre": [
             "sci-fi"
         ],
@@ -136,7 +136,7 @@
     {
         "id": 11,
         "title": "Mrs",
-        "author": "Agna Tomkin",
+        "author": "Gabriel Garcia Marquez",
         "genre": [
             "romance"
         ],
@@ -149,7 +149,7 @@
     {
         "id": 12,
         "title": "Honorablew",
-        "author": "Lonnie Sidle",
+        "author": "William Shakespeare",
         "genre": [
             "action"
         ],
@@ -162,7 +162,7 @@
     {
         "id": 13,
         "title": "Honorable and scary",
-        "author": "Theresita Cheers",
+        "author": "Mark Twain",
         "genre": [
             "sci-fi"
         ],
@@ -175,7 +175,7 @@
     {
         "id": 14,
         "title": "Mr Ya",
-        "author": "Lowrance Flanagan",
+        "author": "William Shakespeare",
         "genre": [
             "thriller",
             "drama"
@@ -189,7 +189,7 @@
     {
         "id": 15,
         "title": "War and Peace",
-        "author": "Josselyn Broek",
+        "author": "Agatha Christie",
         "genre": [
             "action"
         ],
@@ -202,7 +202,7 @@
     {
         "id": 16,
         "title": "Ms Nga",
-        "author": "Bax Notman",
+        "author": "Agatha Christie",
         "genre": [
             "action"
         ],
@@ -215,7 +215,7 @@
     {
         "id": 17,
         "title": "Dr Evil",
-        "author": "Cy Stodd",
+        "author": "George Orwell",
         "genre": [
             "mystery"
         ],
@@ -228,7 +228,7 @@
     {
         "id": 18,
         "title": "Rev and Lovia",
-        "author": "Thedrick Huskinson",
+        "author": "George Orwell",
         "genre": [
             "comedy",
             "romance"
@@ -242,7 +242,7 @@
     {
         "id": 19,
         "title": "The Odyssey",
-        "author": "Hugh Janous",
+        "author": "Harper Lee",
         "genre": [
             "comedy"
         ],
@@ -255,7 +255,7 @@
     {
         "id": 20,
         "title": "The Divine Comedy",
-        "author": "Kerwinn Diwell",
+        "author": "Harper Lee",
         "genre": [
             "drama",
             "horror"
@@ -269,7 +269,7 @@
     {
         "id": 21,
         "title": "The Brothers Karamazov",
-        "author": "Keefer Baggs",
+        "author": "J.R.R. Tolkien",
         "genre": [
             "mystery",
             "thriller"
@@ -283,7 +283,7 @@
     {
         "id": 22,
         "title": "Crime and Punishment",
-        "author": "Clarie Cockell",
+        "author": "Harper Lee",
         "genre": [
             "action"
         ],
@@ -309,7 +309,7 @@
     {
         "id": 24,
         "title": "Brave New World",
-        "author": "Farris Smiths",
+        "author": "J.R.R. Tolkien",
         "genre": [
             "romance",
             "fantasy"
