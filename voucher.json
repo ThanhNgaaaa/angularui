@@ -1,8 +1,8 @@
 [
     {
         "id": 1,
-        "code": "sapien cursus vestibulum proin eu mi nulla ac enim in tempor turpis nec euismod scelerisque quam turpis adipiscing lorem vitae",
-        "discount": 18,
+        "code": "BOOK50OFF",
+        "discount": 50,
         "expirationDate": "362520722000",
         "books": [],
         "termsAndConditions": "Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.\n\nPhasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.",
@@ -13,7 +13,7 @@
     },
     {
         "id": 2,
-        "code": "amet justo morbi ut odio cras mi pede malesuada in imperdiet et commodo vulputate justo",
+        "code": "READMORE2024",
         "discount": 76,
         "expirationDate": "541248123000",
         "books": [
@@ -95,7 +95,7 @@
     },
     {
         "id": 4,
-        "code": "sem sed sagittis nam congue risus semper porta volutpat quam pede lobortis",
+        "code": "PAGETURNER",
         "discount": 86,
         "expirationDate": "1143678416000",
         "books": [
@@ -122,7 +122,7 @@
     },
     {
         "id": 5,
-        "code": "etiam pretium iaculis justo in hac habitasse platea dictumst etiam faucibus cursus",
+        "code": "BOOKLOVER",
         "discount": 10,
         "expirationDate": "413066906000",
         "books": [],
@@ -134,7 +134,7 @@
     },
     {
         "id": 6,
-        "code": "felis sed interdum venenatis turpis enim blandit mi in porttitor pede justo",
+        "code": "LITERARY50",
         "discount": 53,
         "expirationDate": "190324405000",
         "books": [],
@@ -146,7 +146,7 @@
     },
     {
         "id": 7,
-        "code": "viverra pede ac diam cras pellentesque volutpat dui maecenas tristique est et tempus semper est",
+        "code": "BOOKWORM",
         "discount": 58,
         "expirationDate": "422819036000",
         "books": [
@@ -187,7 +187,7 @@
     },
     {
         "id": 8,
-        "code": "enim sit amet nunc viverra dapibus nulla suscipit ligula in lacus",
+        "code": "SUMMERREADING123",
         "discount": 27,
         "expirationDate": "1613279563000",
         "books": [
@@ -214,7 +214,7 @@
     },
     {
         "id": 9,
-        "code": "curae mauris viverra diam vitae quam suspendisse potenti nullam porttitor lacus at turpis donec",
+        "code": "BOOKSALE2024",
         "discount": 84,
         "expirationDate": "1697446511000",
         "books": [
@@ -262,7 +262,7 @@
     },
     {
         "id": 10,
-        "code": "vel accumsan tellus nisi eu orci mauris lacinia sapien quis libero nullam sit amet turpis",
+        "code": "CHAPTERS",
         "discount": 86,
         "expirationDate": "1614876720000",
         "books": [
@@ -310,7 +310,7 @@
     },
     {
         "id": 11,
-        "code": "dolor sit amet consectetuer adipiscing elit proin interdum mauris non ligula pellentesque ultrices phasellus id sapien in sapien",
+        "code": "BOOKISH",
         "discount": 84,
         "expirationDate": "70566718000",
         "books": [
@@ -358,7 +358,7 @@
     },
     {
         "id": 12,
-        "code": "in tempor turpis nec euismod scelerisque quam turpis adipiscing lorem vitae mattis nibh ligula nec sem duis aliquam convallis nunc",
+        "code": "STORYTIME44",
         "discount": 14,
         "expirationDate": "1305394683000",
         "books": [
@@ -392,7 +392,7 @@
     },
     {
         "id": 13,
-        "code": "ullamcorper purus sit amet nulla quisque arcu libero rutrum ac lobortis",
+        "code": "BOOKADDICT12",
         "discount": 2,
         "expirationDate": "1733966247000",
         "books": [
@@ -440,7 +440,7 @@
     },
     {
         "id": 14,
-        "code": "in purus eu magna vulputate luctus cum sociis natoque penatibus et magnis dis parturient montes",
+        "code": "PAPERBACK",
         "discount": 39,
         "expirationDate": "1098884875000",
         "books": [
@@ -481,7 +481,7 @@
     },
     {
         "id": 15,
-        "code": "aliquam lacus morbi quis tortor id nulla ultrices aliquet maecenas leo odio condimentum id luctus nec molestie sed",
+        "code": "HARDCOVER77",
         "discount": 26,
         "expirationDate": "1440579879000",
         "books": [
@@ -501,7 +501,7 @@
     },
     {
         "id": 16,
-        "code": "curabitur in libero ut massa volutpat convallis morbi odio odio elementum eu interdum eu tincidunt in leo maecenas pulvinar",
+        "code": "EBOOKDEAL",
         "discount": 76,
         "expirationDate": "435043334000",
         "books": [
@@ -521,7 +521,7 @@
     },
     {
         "id": 17,
-        "code": "eget rutrum at lorem integer tincidunt ante vel ipsum praesent blandit lacinia erat",
+        "code":  "BOOKNERD",
         "discount": 50,
         "expirationDate": "1659555822000",
         "books": [
@@ -548,7 +548,7 @@
     },
     {
         "id": 18,
-        "code": "et tempus semper est quam pharetra magna ac consequat metus sapien ut nunc vestibulum ante ipsum primis in",
+        "code": "FICTION50",
         "discount": 82,
         "expirationDate": "1598816123000",
         "books": [
@@ -575,7 +575,7 @@
     },
     {
         "id": 19,
-        "code": "fusce congue diam id ornare imperdiet sapien urna pretium nisl ut volutpat sapien arcu sed augue aliquam",
+        "code":  "NONFICTION55",
         "discount": 31,
         "expirationDate": "410712143000",
         "books": [
@@ -616,7 +616,7 @@
     },
     {
         "id": 20,
-        "code": "quis turpis sed ante vivamus tortor duis mattis egestas metus aenean fermentum donec ut mauris eget massa",
+        "code": "THRILLER",
         "discount": 66,
         "expirationDate": "798817517000",
         "books": [
@@ -643,7 +643,7 @@
     },
     {
         "id": 21,
-        "code": "nulla ut erat id mauris vulputate elementum nullam varius nulla facilisi cras non velit nec nisi",
+        "code": "MYSTERYREADS323",
         "discount": 60,
         "expirationDate": "757529877000",
         "books": [
@@ -691,7 +691,7 @@
     },
     {
         "id": 22,
-        "code": "erat fermentum justo nec condimentum neque sapien placerat ante nulla justo aliquam quis turpis eget elit sodales",
+        "code": "ROMANCE",
         "discount": 87,
         "expirationDate": "995967610000",
         "books": [],
@@ -703,7 +703,7 @@
     },
     {
         "id": 23,
-        "code": "odio odio elementum eu interdum eu tincidunt in leo maecenas pulvinar",
+        "code": "CLASSICLIT",
         "discount": 44,
         "expirationDate": "1290079379000",
         "books": [
@@ -730,7 +730,7 @@
     },
     {
         "id": 24,
-        "code": "luctus nec molestie sed justo pellentesque viverra pede ac diam cras pellentesque volutpat dui",
+        "code": "POETRY",
         "discount": 74,
         "expirationDate": "1113849970000",
         "books": [
@@ -764,7 +764,7 @@
     },
     {
         "id": 25,
-        "code": "luctus rutrum nulla tellus in sagittis dui vel nisl duis ac nibh fusce",
+        "code":  "FANTASYVOUCHER",
         "discount": 88,
         "expirationDate": "1241684587000",
         "books": [
@@ -791,7 +791,7 @@
     },
     {
         "id": 26,
-        "code": "lacinia aenean sit amet justo morbi ut odio cras mi pede malesuada in imperdiet et",
+        "code":  "BOOKMARK",
         "discount": 86,
         "expirationDate": "230153505000",
         "books": [
@@ -811,7 +811,7 @@
     },
     {
         "id": 27,
-        "code": "ultrices aliquet maecenas leo odio condimentum id luctus nec molestie sed justo pellentesque viverra",
+        "code": "BOOKCLUB",
         "discount": 82,
         "expirationDate": "842780003000",
         "books": [
@@ -838,7 +838,7 @@
     },
     {
         "id": 28,
-        "code": "pharetra magna ac consequat metus sapien ut nunc vestibulum ante ipsum primis in faucibus",
+        "code":  "AUDIOBOOK",
         "discount": 62,
         "expirationDate": "76779463000",
         "books": [
@@ -872,7 +872,7 @@
     },
     {
         "id": 29,
-        "code": "ut mauris eget massa tempor convallis nulla neque libero convallis",
+        "code": "ARTBOOK222",
         "discount": 75,
         "expirationDate": "122542179000",
         "books": [
@@ -906,7 +906,7 @@
     },
     {
         "id": 30,
-        "code": "venenatis tristique fusce congue diam id ornare imperdiet sapien urna pretium nisl ut volutpat sapien arcu sed augue aliquam",
+        "code": "READER50",
         "discount": 52,
         "expirationDate": "350157829000",
         "books": [],
@@ -915,634 +915,5 @@
         "applicableRegions": "Canada",
         "usageCount": 80,
         "usageLimit": 312
-    },
-    {
-        "id": 31,
-        "code": "nisl nunc nisl duis bibendum felis sed interdum venenatis turpis enim blandit mi in",
-        "discount": 34,
-        "expirationDate": "1002953235000",
-        "books": [
-            {
-                "title": "parturient montes nascetur ridiculus mus etiam vel augue vestibulum rutrum rutrum neque aenean auctor gravida sem praesent id",
-                "author": "nulla ultrices aliquet maecenas leo odio condimentum id luctus nec molestie sed justo pellentesque viverra pede ac diam",
-                "price": 10128.72,
-                "genre": "historical fiction",
-                "isBestseller": false
-            },
-            {
-                "title": "nulla facilisi cras non velit nec nisi vulputate nonummy maecenas tincidunt lacus at velit vivamus vel nulla eget eros",
-                "author": "dapibus nulla suscipit ligula in lacus curabitur at ipsum ac tellus semper interdum",
-                "price": 77065.53,
-                "genre": "biography",
-                "isBestseller": true
-            }
-        ],
-        "termsAndConditions": "In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.\n\nNulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.\n\nCras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.",
-        "minimumPurchaseAmount": 105.67,
-        "applicableRegions": "Brazil",
-        "usageCount": 44,
-        "usageLimit": 174
-    },
-    {
-        "id": 32,
-        "code": "dapibus duis at velit eu est congue elementum in hac",
-        "discount": 34,
-        "expirationDate": "1258132357000",
-        "books": [
-            {
-                "title": "parturient montes nascetur ridiculus mus vivamus vestibulum sagittis sapien cum sociis natoque",
-                "author": "eu sapien cursus vestibulum proin eu mi nulla ac enim in tempor turpis nec euismod scelerisque quam",
-                "price": 79266.18,
-                "genre": "horror",
-                "isBestseller": true
-            },
-            {
-                "title": "erat tortor sollicitudin mi sit amet lobortis sapien sapien non mi integer ac neque",
-                "author": "nulla facilisi cras non velit nec nisi vulputate nonummy maecenas tincidunt lacus at",
-                "price": 32188.5,
-                "genre": "fantasy",
-                "isBestseller": true
-            },
-            {
-                "title": "diam neque vestibulum eget vulputate ut ultrices vel augue vestibulum ante ipsum primis in faucibus orci luctus et ultrices",
-                "author": "parturient montes nascetur ridiculus mus etiam vel augue vestibulum rutrum rutrum neque",
-                "price": 99225.02,
-                "genre": "romance",
-                "isBestseller": false
-            },
-            {
-                "title": "neque sapien placerat ante nulla justo aliquam quis turpis eget elit sodales scelerisque mauris sit amet eros suspendisse accumsan",
-                "author": "sed vel enim sit amet nunc viverra dapibus nulla suscipit",
-                "price": 3256.99,
-                "genre": "romance",
-                "isBestseller": false
-            },
-            {
-                "title": "odio cras mi pede malesuada in imperdiet et commodo vulputate justo in blandit ultrices enim",
-                "author": "aliquam convallis nunc proin at turpis a pede posuere nonummy integer",
-                "price": 50862.03,
-                "genre": "fantasy",
-                "isBestseller": true
-            }
-        ],
-        "termsAndConditions": "Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.",
-        "minimumPurchaseAmount": 175.02,
-        "applicableRegions": "Germany",
-        "usageCount": 49,
-        "usageLimit": 80
-    },
-    {
-        "id": 33,
-        "code": "morbi vestibulum velit id pretium iaculis diam erat fermentum justo",
-        "discount": 6,
-        "expirationDate": "262070674000",
-        "books": [
-            {
-                "title": "condimentum curabitur in libero ut massa volutpat convallis morbi odio odio elementum eu interdum eu tincidunt in leo",
-                "author": "quis odio consequat varius integer ac leo pellentesque ultrices mattis odio donec",
-                "price": 39657.42,
-                "genre": "science fiction",
-                "isBestseller": true
-            }
-        ],
-        "termsAndConditions": "Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.",
-        "minimumPurchaseAmount": 259.67,
-        "applicableRegions": "Brazil",
-        "usageCount": 56,
-        "usageLimit": 84
-    },
-    {
-        "id": 34,
-        "code": "dapibus augue vel accumsan tellus nisi eu orci mauris lacinia",
-        "discount": 82,
-        "expirationDate": "1255946343000",
-        "books": [
-            {
-                "title": "quis tortor id nulla ultrices aliquet maecenas leo odio condimentum id luctus nec molestie sed",
-                "author": "ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae mauris viverra diam vitae quam suspendisse",
-                "price": 76494.6,
-                "genre": "thriller",
-                "isBestseller": true
-            },
-            {
-                "title": "nisl nunc rhoncus dui vel sem sed sagittis nam congue risus",
-                "author": "donec ut mauris eget massa tempor convallis nulla neque libero convallis eget eleifend luctus ultricies eu",
-                "price": 47760.64,
-                "genre": "thriller",
-                "isBestseller": true
-            },
-            {
-                "title": "quam fringilla rhoncus mauris enim leo rhoncus sed vestibulum sit amet cursus id turpis",
-                "author": "aliquam augue quam sollicitudin vitae consectetuer eget rutrum at lorem integer tincidunt ante vel ipsum praesent",
-                "price": 70796.4,
-                "genre": "mystery",
-                "isBestseller": true
-            }
-        ],
-        "termsAndConditions": "Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.\n\nDuis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.\n\nDonec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.",
-        "minimumPurchaseAmount": 857.4,
-        "applicableRegions": "Japan",
-        "usageCount": 41,
-        "usageLimit": 222
-    },
-    {
-        "id": 35,
-        "code": "elementum nullam varius nulla facilisi cras non velit nec nisi vulputate nonummy maecenas tincidunt lacus",
-        "discount": 11,
-        "expirationDate": "899300649000",
-        "books": [
-            {
-                "title": "hac habitasse platea dictumst aliquam augue quam sollicitudin vitae consectetuer eget rutrum at lorem integer tincidunt ante",
-                "author": "volutpat in congue etiam justo etiam pretium iaculis justo in hac habitasse platea dictumst etiam faucibus",
-                "price": 33952.73,
-                "genre": "self-help",
-                "isBestseller": false
-            },
-            {
-                "title": "sem mauris laoreet ut rhoncus aliquet pulvinar sed nisl nunc rhoncus dui vel sem sed sagittis nam congue risus semper",
-                "author": "lacus purus aliquet at feugiat non pretium quis lectus suspendisse potenti in eleifend quam a odio in",
-                "price": 52907.76,
-                "genre": "historical fiction",
-                "isBestseller": true
-            },
-            {
-                "title": "posuere cubilia curae mauris viverra diam vitae quam suspendisse potenti nullam porttitor lacus",
-                "author": "ac est lacinia nisi venenatis tristique fusce congue diam id ornare imperdiet",
-                "price": 89194.93,
-                "genre": "horror",
-                "isBestseller": true
-            },
-            {
-                "title": "sit amet erat nulla tempus vivamus in felis eu sapien cursus vestibulum proin eu mi nulla",
-                "author": "nulla integer pede justo lacinia eget tincidunt eget tempus vel pede morbi",
-                "price": 81340.29,
-                "genre": "thriller",
-                "isBestseller": true
-            }
-        ],
-        "termsAndConditions": "Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.\n\nDuis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.",
-        "minimumPurchaseAmount": 24.85,
-        "applicableRegions": "Australia",
-        "usageCount": 9,
-        "usageLimit": 353
-    },
-    {
-        "id": 36,
-        "code": "nulla sed accumsan felis ut at dolor quis odio consequat varius integer ac leo pellentesque ultrices mattis odio donec",
-        "discount": 55,
-        "expirationDate": "119917198000",
-        "books": [
-            {
-                "title": "pretium iaculis justo in hac habitasse platea dictumst etiam faucibus cursus urna ut tellus nulla ut erat",
-                "author": "eget vulputate ut ultrices vel augue vestibulum ante ipsum primis in faucibus orci luctus et",
-                "price": 5363.5,
-                "genre": "adventure",
-                "isBestseller": false
-            },
-            {
-                "title": "erat volutpat in congue etiam justo etiam pretium iaculis justo in hac habitasse platea dictumst etiam faucibus cursus urna",
-                "author": "leo rhoncus sed vestibulum sit amet cursus id turpis integer aliquet massa id",
-                "price": 6099.62,
-                "genre": "self-help",
-                "isBestseller": true
-            }
-        ],
-        "termsAndConditions": "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.\n\nEtiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.",
-        "minimumPurchaseAmount": 826.32,
-        "applicableRegions": "Australia",
-        "usageCount": 58,
-        "usageLimit": 354
-    },
-    {
-        "id": 37,
-        "code": "cursus vestibulum proin eu mi nulla ac enim in tempor turpis nec euismod scelerisque",
-        "discount": 46,
-        "expirationDate": "494465289000",
-        "books": [
-            {
-                "title": "quis libero nullam sit amet turpis elementum ligula vehicula consequat morbi a ipsum",
-                "author": "elementum pellentesque quisque porta volutpat erat quisque erat eros viverra eget congue eget",
-                "price": 89722.77,
-                "genre": "thriller",
-                "isBestseller": true
-            },
-            {
-                "title": "tortor sollicitudin mi sit amet lobortis sapien sapien non mi integer ac neque duis bibendum",
-                "author": "ut suscipit a feugiat et eros vestibulum ac est lacinia nisi venenatis tristique fusce congue diam id ornare imperdiet sapien",
-                "price": 93323.13,
-                "genre": "biography",
-                "isBestseller": true
-            },
-            {
-                "title": "purus eu magna vulputate luctus cum sociis natoque penatibus et magnis dis parturient montes nascetur",
-                "author": "natoque penatibus et magnis dis parturient montes nascetur ridiculus mus vivamus vestibulum sagittis",
-                "price": 32298.93,
-                "genre": "mystery",
-                "isBestseller": true
-            }
-        ],
-        "termsAndConditions": "Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.\n\nMorbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.\n\nFusce consequat. Nulla nisl. Nunc nisl.",
-        "minimumPurchaseAmount": 353.86,
-        "applicableRegions": "Germany",
-        "usageCount": 9,
-        "usageLimit": 119
-    },
-    {
-        "id": 38,
-        "code": "tempor convallis nulla neque libero convallis eget eleifend luctus ultricies eu nibh quisque id justo sit amet sapien dignissim",
-        "discount": 96,
-        "expirationDate": "212921681000",
-        "books": [
-            {
-                "title": "sed lacus morbi sem mauris laoreet ut rhoncus aliquet pulvinar sed nisl nunc rhoncus dui vel sem sed",
-                "author": "tristique in tempus sit amet sem fusce consequat nulla nisl nunc nisl duis bibendum felis sed interdum",
-                "price": 98415.19,
-                "genre": "thriller",
-                "isBestseller": false
-            },
-            {
-                "title": "eu mi nulla ac enim in tempor turpis nec euismod scelerisque quam",
-                "author": "donec semper sapien a libero nam dui proin leo odio porttitor id consequat",
-                "price": 23470.0,
-                "genre": "fantasy",
-                "isBestseller": false
-            },
-            {
-                "title": "justo eu massa donec dapibus duis at velit eu est congue elementum in hac habitasse",
-                "author": "ultrices vel augue vestibulum ante ipsum primis in faucibus orci luctus et",
-                "price": 66890.84,
-                "genre": "horror",
-                "isBestseller": false
-            },
-            {
-                "title": "dis parturient montes nascetur ridiculus mus vivamus vestibulum sagittis sapien cum sociis natoque penatibus et magnis dis parturient montes",
-                "author": "placerat ante nulla justo aliquam quis turpis eget elit sodales scelerisque mauris",
-                "price": 555.75,
-                "genre": "science fiction",
-                "isBestseller": false
-            }
-        ],
-        "termsAndConditions": "Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.\n\nQuisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.\n\nPhasellus in felis. Donec semper sapien a libero. Nam dui.",
-        "minimumPurchaseAmount": 188.14,
-        "applicableRegions": "Brazil",
-        "usageCount": 92,
-        "usageLimit": 313
-    },
-    {
-        "id": 39,
-        "code": "vel sem sed sagittis nam congue risus semper porta volutpat quam pede lobortis ligula sit amet eleifend pede libero quis",
-        "discount": 85,
-        "expirationDate": "1483493501000",
-        "books": [
-            {
-                "title": "nam nulla integer pede justo lacinia eget tincidunt eget tempus vel pede morbi porttitor lorem id ligula suspendisse ornare consequat",
-                "author": "augue vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae donec pharetra",
-                "price": 80848.77,
-                "genre": "mystery",
-                "isBestseller": true
-            },
-            {
-                "title": "venenatis turpis enim blandit mi in porttitor pede justo eu massa donec dapibus duis at velit eu est",
-                "author": "sed ante vivamus tortor duis mattis egestas metus aenean fermentum donec ut mauris",
-                "price": 4875.74,
-                "genre": "historical fiction",
-                "isBestseller": false
-            }
-        ],
-        "termsAndConditions": "Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.\n\nMorbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.",
-        "minimumPurchaseAmount": 200.45,
-        "applicableRegions": "Brazil",
-        "usageCount": 31,
-        "usageLimit": 134
-    },
-    {
-        "id": 40,
-        "code": "congue eget semper rutrum nulla nunc purus phasellus in felis donec",
-        "discount": 11,
-        "expirationDate": "643647383000",
-        "books": [
-            {
-                "title": "ut tellus nulla ut erat id mauris vulputate elementum nullam",
-                "author": "porta volutpat erat quisque erat eros viverra eget congue eget semper rutrum",
-                "price": 9934.73,
-                "genre": "adventure",
-                "isBestseller": true
-            },
-            {
-                "title": "lacus morbi sem mauris laoreet ut rhoncus aliquet pulvinar sed nisl nunc rhoncus dui vel sem sed sagittis",
-                "author": "tempus semper est quam pharetra magna ac consequat metus sapien ut nunc vestibulum ante",
-                "price": 74617.59,
-                "genre": "biography",
-                "isBestseller": true
-            }
-        ],
-        "termsAndConditions": "Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.\n\nSed ante. Vivamus tortor. Duis mattis egestas metus.\n\nAenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.",
-        "minimumPurchaseAmount": 106.18,
-        "applicableRegions": "India",
-        "usageCount": 25,
-        "usageLimit": 112
-    },
-    {
-        "id": 41,
-        "code": "rutrum ac lobortis vel dapibus at diam nam tristique tortor eu pede",
-        "discount": 18,
-        "expirationDate": "1034271624000",
-        "books": [
-            {
-                "title": "nibh quisque id justo sit amet sapien dignissim vestibulum vestibulum ante ipsum primis in faucibus orci",
-                "author": "interdum in ante vestibulum ante ipsum primis in faucibus orci luctus et ultrices",
-                "price": 91823.72,
-                "genre": "fantasy",
-                "isBestseller": false
-            },
-            {
-                "title": "venenatis lacinia aenean sit amet justo morbi ut odio cras mi pede malesuada in imperdiet et commodo vulputate justo",
-                "author": "rutrum nulla nunc purus phasellus in felis donec semper sapien a",
-                "price": 92026.01,
-                "genre": "horror",
-                "isBestseller": true
-            },
-            {
-                "title": "pretium iaculis diam erat fermentum justo nec condimentum neque sapien placerat ante nulla justo aliquam quis turpis eget elit sodales",
-                "author": "mauris enim leo rhoncus sed vestibulum sit amet cursus id turpis integer",
-                "price": 57660.28,
-                "genre": "historical fiction",
-                "isBestseller": false
-            },
-            {
-                "title": "ultrices posuere cubilia curae mauris viverra diam vitae quam suspendisse potenti nullam porttitor lacus at turpis donec",
-                "author": "amet justo morbi ut odio cras mi pede malesuada in imperdiet et commodo vulputate justo in blandit",
-                "price": 87384.18,
-                "genre": "biography",
-                "isBestseller": true
-            }
-        ],
-        "termsAndConditions": "Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.",
-        "minimumPurchaseAmount": 53.91,
-        "applicableRegions": "Japan",
-        "usageCount": 70,
-        "usageLimit": 272
-    },
-    {
-        "id": 42,
-        "code": "lectus aliquam sit amet diam in magna bibendum imperdiet nullam orci pede venenatis non sodales",
-        "discount": 81,
-        "expirationDate": "1557079476000",
-        "books": [
-            {
-                "title": "ultricies eu nibh quisque id justo sit amet sapien dignissim vestibulum",
-                "author": "ut blandit non interdum in ante vestibulum ante ipsum primis in faucibus orci luctus",
-                "price": 9568.71,
-                "genre": "thriller",
-                "isBestseller": true
-            },
-            {
-                "title": "justo pellentesque viverra pede ac diam cras pellentesque volutpat dui maecenas",
-                "author": "mauris eget massa tempor convallis nulla neque libero convallis eget eleifend luctus ultricies eu nibh quisque",
-                "price": 21993.97,
-                "genre": "thriller",
-                "isBestseller": false
-            },
-            {
-                "title": "ultrices libero non mattis pulvinar nulla pede ullamcorper augue a suscipit nulla elit ac nulla sed vel enim sit",
-                "author": "eget nunc donec quis orci eget orci vehicula condimentum curabitur in libero ut massa",
-                "price": 73206.32,
-                "genre": "mystery",
-                "isBestseller": true
-            },
-            {
-                "title": "lacus curabitur at ipsum ac tellus semper interdum mauris ullamcorper purus sit amet nulla quisque arcu libero rutrum",
-                "author": "ac diam cras pellentesque volutpat dui maecenas tristique est et tempus semper est quam pharetra magna",
-                "price": 52359.88,
-                "genre": "fantasy",
-                "isBestseller": true
-            },
-            {
-                "title": "mi pede malesuada in imperdiet et commodo vulputate justo in blandit ultrices enim lorem ipsum dolor sit",
-                "author": "in purus eu magna vulputate luctus cum sociis natoque penatibus",
-                "price": 73410.6,
-                "genre": "historical fiction",
-                "isBestseller": true
-            }
-        ],
-        "termsAndConditions": "Fusce consequat. Nulla nisl. Nunc nisl.\n\nDuis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.\n\nIn hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.",
-        "minimumPurchaseAmount": 725.31,
-        "applicableRegions": "Viet Nam",
-        "usageCount": 92,
-        "usageLimit": 132
-    },
-    {
-        "id": 43,
-        "code": "morbi porttitor lorem id ligula suspendisse ornare consequat lectus in",
-        "discount": 26,
-        "expirationDate": "1647233992000",
-        "books": [
-            {
-                "title": "mauris lacinia sapien quis libero nullam sit amet turpis elementum ligula vehicula consequat morbi a ipsum integer a nibh in",
-                "author": "venenatis turpis enim blandit mi in porttitor pede justo eu massa donec dapibus duis at velit eu est congue elementum",
-                "price": 6272.89,
-                "genre": "historical fiction",
-                "isBestseller": false
-            },
-            {
-                "title": "dictumst etiam faucibus cursus urna ut tellus nulla ut erat id mauris vulputate elementum nullam varius",
-                "author": "amet diam in magna bibendum imperdiet nullam orci pede venenatis non sodales sed tincidunt eu felis",
-                "price": 57964.27,
-                "genre": "romance",
-                "isBestseller": false
-            },
-            {
-                "title": "pellentesque viverra pede ac diam cras pellentesque volutpat dui maecenas tristique",
-                "author": "amet turpis elementum ligula vehicula consequat morbi a ipsum integer a nibh in quis",
-                "price": 9778.01,
-                "genre": "adventure",
-                "isBestseller": false
-            },
-            {
-                "title": "rhoncus dui vel sem sed sagittis nam congue risus semper porta volutpat quam",
-                "author": "sem mauris laoreet ut rhoncus aliquet pulvinar sed nisl nunc",
-                "price": 99974.03,
-                "genre": "science fiction",
-                "isBestseller": true
-            }
-        ],
-        "termsAndConditions": "Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.\n\nProin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.\n\nDuis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.",
-        "minimumPurchaseAmount": 413.76,
-        "applicableRegions": "Germany",
-        "usageCount": 74,
-        "usageLimit": 64
-    },
-    {
-        "id": 44,
-        "code": "non interdum in ante vestibulum ante ipsum primis in faucibus orci luctus",
-        "discount": 95,
-        "expirationDate": "1017135099000",
-        "books": [],
-        "termsAndConditions": "Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.\n\nCras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.\n\nQuisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.",
-        "minimumPurchaseAmount": 701.1,
-        "applicableRegions": "India",
-        "usageCount": 83,
-        "usageLimit": 234
-    },
-    {
-        "id": 45,
-        "code": "fusce congue diam id ornare imperdiet sapien urna pretium nisl",
-        "discount": 91,
-        "expirationDate": "70757593000",
-        "books": [
-            {
-                "title": "duis at velit eu est congue elementum in hac habitasse platea dictumst morbi",
-                "author": "quis orci eget orci vehicula condimentum curabitur in libero ut massa",
-                "price": 30069.39,
-                "genre": "biography",
-                "isBestseller": true
-            },
-            {
-                "title": "congue eget semper rutrum nulla nunc purus phasellus in felis donec semper sapien a libero nam",
-                "author": "dignissim vestibulum vestibulum ante ipsum primis in faucibus orci luctus",
-                "price": 37362.16,
-                "genre": "biography",
-                "isBestseller": true
-            },
-            {
-                "title": "diam vitae quam suspendisse potenti nullam porttitor lacus at turpis donec posuere metus vitae ipsum aliquam non mauris morbi non",
-                "author": "neque libero convallis eget eleifend luctus ultricies eu nibh quisque id justo",
-                "price": 28408.86,
-                "genre": "historical fiction",
-                "isBestseller": false
-            },
-            {
-                "title": "vel accumsan tellus nisi eu orci mauris lacinia sapien quis libero nullam sit amet",
-                "author": "integer pede justo lacinia eget tincidunt eget tempus vel pede morbi",
-                "price": 28266.1,
-                "genre": "self-help",
-                "isBestseller": false
-            },
-            {
-                "title": "vel sem sed sagittis nam congue risus semper porta volutpat",
-                "author": "ut massa quis augue luctus tincidunt nulla mollis molestie lorem quisque ut erat curabitur gravida",
-                "price": 54197.1,
-                "genre": "romance",
-                "isBestseller": true
-            }
-        ],
-        "termsAndConditions": "Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.\n\nDuis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.\n\nIn sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.",
-        "minimumPurchaseAmount": 619.19,
-        "applicableRegions": "USA",
-        "usageCount": 80,
-        "usageLimit": 369
-    },
-    {
-        "id": 46,
-        "code": "nulla tempus vivamus in felis eu sapien cursus vestibulum proin eu mi nulla",
-        "discount": 87,
-        "expirationDate": "1505192246000",
-        "books": [
-            {
-                "title": "cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus vivamus vestibulum sagittis sapien cum",
-                "author": "a pede posuere nonummy integer non velit donec diam neque vestibulum",
-                "price": 12277.38,
-                "genre": "mystery",
-                "isBestseller": true
-            }
-        ],
-        "termsAndConditions": "Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.",
-        "minimumPurchaseAmount": 819.07,
-        "applicableRegions": "Canada",
-        "usageCount": 83,
-        "usageLimit": 346
-    },
-    {
-        "id": 47,
-        "code": "pede lobortis ligula sit amet eleifend pede libero quis orci nullam molestie nibh in lectus pellentesque at nulla",
-        "discount": 31,
-        "expirationDate": "331933877000",
-        "books": [
-            {
-                "title": "vitae nisi nam ultrices libero non mattis pulvinar nulla pede ullamcorper augue a suscipit nulla elit ac nulla",
-                "author": "pellentesque ultrices phasellus id sapien in sapien iaculis congue vivamus metus arcu adipiscing molestie hendrerit at vulputate vitae",
-                "price": 60147.97,
-                "genre": "horror",
-                "isBestseller": false
-            },
-            {
-                "title": "venenatis turpis enim blandit mi in porttitor pede justo eu massa donec",
-                "author": "amet cursus id turpis integer aliquet massa id lobortis convallis tortor risus",
-                "price": 22264.96,
-                "genre": "historical fiction",
-                "isBestseller": false
-            }
-        ],
-        "termsAndConditions": "Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.",
-        "minimumPurchaseAmount": 401.26,
-        "applicableRegions": "Germany",
-        "usageCount": 78,
-        "usageLimit": 256
-    },
-    {
-        "id": 48,
-        "code": "luctus et ultrices posuere cubilia curae duis faucibus accumsan odio curabitur convallis duis consequat dui nec nisi volutpat eleifend",
-        "discount": 54,
-        "expirationDate": "775654592000",
-        "books": [],
-        "termsAndConditions": "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.\n\nEtiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.\n\nPraesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.",
-        "minimumPurchaseAmount": 168.34,
-        "applicableRegions": "India",
-        "usageCount": 55,
-        "usageLimit": 118
-    },
-    {
-        "id": 49,
-        "code": "sapien placerat ante nulla justo aliquam quis turpis eget elit",
-        "discount": 45,
-        "expirationDate": "323085406000",
-        "books": [
-            {
-                "title": "vestibulum velit id pretium iaculis diam erat fermentum justo nec condimentum neque sapien placerat ante nulla justo aliquam quis",
-                "author": "vitae nisl aenean lectus pellentesque eget nunc donec quis orci eget orci vehicula condimentum curabitur in libero ut massa volutpat",
-                "price": 17695.36,
-                "genre": "self-help",
-                "isBestseller": false
-            },
-            {
-                "title": "at dolor quis odio consequat varius integer ac leo pellentesque ultrices mattis odio donec vitae nisi",
-                "author": "morbi porttitor lorem id ligula suspendisse ornare consequat lectus in est risus",
-                "price": 4030.79,
-                "genre": "mystery",
-                "isBestseller": false
-            }
-        ],
-        "termsAndConditions": "Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.\n\nIn quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.",
-        "minimumPurchaseAmount": 57.54,
-        "applicableRegions": "Germany",
-        "usageCount": 97,
-        "usageLimit": 135
-    },
-    {
-        "id": 50,
-        "code": "amet eleifend pede libero quis orci nullam molestie nibh in lectus pellentesque at nulla",
-        "discount": 91,
-        "expirationDate": "438535632000",
-        "books": [
-            {
-                "title": "ultrices libero non mattis pulvinar nulla pede ullamcorper augue a suscipit nulla elit ac nulla sed vel enim sit",
-                "author": "nec condimentum neque sapien placerat ante nulla justo aliquam quis",
-                "price": 82693.19,
-                "genre": "thriller",
-                "isBestseller": false
-            },
-            {
-                "title": "eget elit sodales scelerisque mauris sit amet eros suspendisse accumsan",
-                "author": "orci eget orci vehicula condimentum curabitur in libero ut massa volutpat convallis morbi",
-                "price": 60834.61,
-                "genre": "self-help",
-                "isBestseller": true
-            }
-        ],
-        "termsAndConditions": "Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.\n\nIn sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.\n\nSuspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.",
-        "minimumPurchaseAmount": 712.12,
-        "applicableRegions": "India",
-        "usageCount": 83,
-        "usageLimit": 192
     }
 ]
