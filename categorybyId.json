@@ -1,0 +1,11 @@
+{
+    "id": 1,
+    "code": "FIC",
+    "name": "Fiction",
+    "description": "Books that are created from the imagination of the author.",
+    "subCategories": [
+      "Romance",
+      "Science Fiction",
+      "Mystery"
+    ]
+  }
