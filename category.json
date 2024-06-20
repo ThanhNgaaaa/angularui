@@ -1,0 +1,169 @@
+[
+    {
+        "id": 1,
+        "code": "FIC",
+        "name": "Fiction",
+        "description": "Books that are created from the imagination of the author.",
+        "subCategories": [
+            "Romance",
+            "Science Fiction",
+            "Mystery"
+        ]
+    },
+    {
+        "id": 2,
+        "code": "NON",
+        "name": "Non-fiction",
+        "description": "Books based on real-life events, facts, and information.",
+        "subCategories": [
+            "Biography",
+            "History",
+            "Self-Help"
+        ]
+    },
+    {
+        "id": 3,
+        "code": "FAN",
+        "name": "Fantasy",
+        "description": "Books that involve magic, mythical creatures, and imaginary worlds.",
+        "subCategories": [
+            "Epic Fantasy",
+            "Urban Fantasy",
+            "High Fantasy"
+        ]
+    },
+    {
+        "id": 4,
+        "code": "THR",
+        "name": "Thriller",
+        "description": "Books that create intense excitement, suspense, and anticipation.",
+        "subCategories": [
+            "Psychological Thriller",
+            "Crime Thriller",
+            "Legal Thriller"
+        ]
+    },
+    {
+        "id": 5,
+        "code": "YOU",
+        "name": "Young",
+        "description": "Books aimed at teenage readers, typically featuring young protagonists.",
+        "subCategories": [
+            "Dystopian",
+            "Contemporary",
+            "Romance"
+        ]
+    },
+    {
+        "id": 6,
+        "code": "SCI",
+        "name": "Science",
+        "description": "Books that explore scientific concepts, theories, and discoveries.",
+        "subCategories": [
+            "Astronomy",
+            "Biology",
+            "Physics"
+        ]
+    },
+    {
+        "id": 7,
+        "code": "HOR",
+        "name": "Horror",
+        "description": "Books that evoke a sense of fear, dread, and terror in readers.",
+        "subCategories": [
+            "Supernatural",
+            "Psychological Horror"
+        ]
+    },
+    {
+        "id": 8,
+        "code": "HIS",
+        "name": "Historical Fiction",
+        "description": "Books that are set in the past and incorporate fictional elements.",
+        "subCategories": [
+            "World War II",
+            "Ancient Civilizations"
+        ]
+    },
+    {
+        "id": 9,
+        "code": "VER",
+        "name": "Victorian Era",
+        "description": "Books that are set during the reign of Queen Victoria in the 19th century."
+    },
+    {
+        "id": 10,
+        "code": "POE",
+        "name": "Poetry",
+        "description": "Books that use language to evoke emotions and express ideas artistically.",
+        "subCategories": [
+            "Love Poems",
+            "Sonnets"
+        ]
+    },
+    {
+        "id": 11,
+        "code": "BUS",
+        "name": "Business",
+        "description": "Books that provide insights and strategies for the world of commerce.",
+        "subCategories": [
+            "Entrepreneurship",
+            "Leadership"
+        ]
+    },
+    {
+        "id": 12,
+        "code": "MAR",
+        "name": "Marketing",
+        "description": "Books that explore various marketing strategies and tactics."
+    },
+    {
+        "id": 13,
+        "code": "MEM",
+        "name": "Memory",
+        "description": "Books that recount personal experiences and memories of the author.",
+        "subCategories": [
+            "Travel Memory",
+            "Celebrity Memory"
+        ]
+    },
+    {
+        "id": 14,
+        "code": "EMO",
+        "name": "Emotional",
+        "description": "Books that delve into the author's emotional journey and personal growth."
+    },
+    {
+        "id": 16,
+        "code": "SPO",
+        "name": "Sports",
+        "description": "Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.",
+        "subCategories": [
+            "Football",
+            "Basketball",
+            "Tennis"
+        ]
+    },
+    {
+        "id": 17,
+        "code": "EDU",
+        "name": "Education",
+        "description": "Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.\n\nDonec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.\n\nDuis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.",
+        "subcategories": [
+            "Teaching Methods",
+            "Educational Psychology",
+            "Special Education"
+        ]
+    },
+    {
+        "id": 18,
+        "code": "DRAMA",
+        "name": "Drama",
+        "description": "Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.\n\nPraesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.\n\nMorbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.",
+        "subcategories": [
+            "Plays",
+            "Theater History",
+            "Acting Techniques"
+        ]
+    }
+]
