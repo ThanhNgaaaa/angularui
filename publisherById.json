@@ -1,0 +1,22 @@
+{
+        "id":1,
+        "code":"VIM",
+        "name": "Vimbo",
+        "location": "Banjar Tengah",
+        "foundedDate": "297575453000",
+        "website": "https://google.ru/imperdiet/et/commodo/vulputate.jpg?congue=et&eget=ultrices&semper=posuere&rutrum=cubilia&nulla=curae&nunc=duis&purus=faucibus&phasellus=accumsan&in=odio&felis=curabitur&donec=convallis&semper=duis&sapien=consequat&a=dui&libero=nec&nam=nisi&dui=volutpat&proin=eleifend&leo=donec&odio=ut&porttitor=dolor&id=morbi&consequat=vel&in=lectus&consequat=in&ut=quam&nulla=fringilla&sed=rhoncus&accumsan=mauris&felis=enim&ut=leo&at=rhoncus&dolor=sed&quis=vestibulum&odio=sit&consequat=amet&varius=cursus&integer=id&ac=turpis&leo=integer",
+        "contactEmail": "mwooton1@flickr.com",
+        "phone": "612-666-3091",
+        "booksPublished": [
+            {
+                "title": "Ms",
+                "author": "Sheridan Jeannin",
+                "release_date": "186575863000"
+            },
+            {
+                "title": "Ms",
+                "author": "Gerda Tarbath",
+                "release_date": "1114520525000"
+            }
+        ]
+    }
