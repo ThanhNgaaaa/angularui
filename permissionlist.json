@@ -1,0 +1,2730 @@
+[
+        {
+            "id": 1228,
+            "code": "OT.MD.MC.DL",
+            "module": "ORCHESTRATION",
+            "group": "MASTER DATA MANAGEMENT",
+            "function": "MACHINE",
+            "method": "DELETE"
+        },
+        {
+            "id": 1229,
+            "code": "OT.MD.MC.MD",
+            "module": "ORCHESTRATION",
+            "group": "MASTER DATA MANAGEMENT",
+            "function": "MACHINE",
+            "method": "MODIFY"
+        },
+        {
+            "id": 1230,
+            "code": "OT.MD.MC.VW",
+            "module": "ORCHESTRATION",
+            "group": "MASTER DATA MANAGEMENT",
+            "function": "MACHINE",
+            "method": "VIEW"
+        },
+        {
+            "id": 1231,
+            "code": "OT.MD.MD.DL",
+            "module": "ORCHESTRATION",
+            "group": "MASTER DATA MANAGEMENT",
+            "function": "MODEL",
+            "method": "DELETE"
+        },
+        {
+            "id": 1232,
+            "code": "OT.MD.MD.MD",
+            "module": "ORCHESTRATION",
+            "group": "MASTER DATA MANAGEMENT",
+            "function": "MODEL",
+            "method": "MODIFY"
+        },
+        {
+            "id": 1233,
+            "code": "OT.MD.MD.VW",
+            "module": "ORCHESTRATION",
+            "group": "MASTER DATA MANAGEMENT",
+            "function": "MODEL",
+            "method": "VIEW"
+        },
+        {
+            "id": 1234,
+            "code": "OT.MD.OP.DL",
+            "module": "ORCHESTRATION",
+            "group": "MASTER DATA MANAGEMENT",
+            "function": "OPERATION",
+            "method": "DELETE"
+        },
+        {
+            "id": 1235,
+            "code": "OT.MD.OP.MD",
+            "module": "ORCHESTRATION",
+            "group": "MASTER DATA MANAGEMENT",
+            "function": "OPERATION",
+            "method": "MODIFY"
+        },
+        {
+            "id": 1236,
+            "code": "OT.MD.OP.VW",
+            "module": "ORCHESTRATION",
+            "group": "MASTER DATA MANAGEMENT",
+            "function": "OPERATION",
+            "method": "VIEW"
+        },
+        {
+            "id": 1237,
+            "code": "OT.MD.PAS.DL",
+            "module": "ORCHESTRATION",
+            "group": "MASTER DATA MANAGEMENT",
+            "function": "PACKAGING SPECIFICATION",
+            "method": "DELETE"
+        },
+        {
+            "id": 1238,
+            "code": "OT.MD.PAS.MD",
+            "module": "ORCHESTRATION",
+            "group": "MASTER DATA MANAGEMENT",
+            "function": "PACKAGING SPECIFICATION",
+            "method": "MODIFY"
+        },
+        {
+            "id": 1239,
+            "code": "OT.MD.PAS.VW",
+            "module": "ORCHESTRATION",
+            "group": "MASTER DATA MANAGEMENT",
+            "function": "PACKAGING SPECIFICATION",
+            "method": "VIEW"
+        },
+        {
+            "id": 1240,
+            "code": "OT.MD.SC.DL",
+            "module": "ORCHESTRATION",
+            "group": "MASTER DATA MANAGEMENT",
+            "function": "SHOP CODE",
+            "method": "DELETE"
+        },
+        {
+            "id": 1241,
+            "code": "OT.MD.SC.MD",
+            "module": "ORCHESTRATION",
+            "group": "MASTER DATA MANAGEMENT",
+            "function": "SHOP CODE",
+            "method": "MODIFY"
+        },
+        {
+            "id": 1242,
+            "code": "OT.MD.SC.VW",
+            "module": "ORCHESTRATION",
+            "group": "MASTER DATA MANAGEMENT",
+            "function": "SHOP CODE",
+            "method": "VIEW"
+        },
+        {
+            "id": 1216,
+            "code": "OT.MD.FAC.DL",
+            "module": "ORCHESTRATION",
+            "group": "MASTER DATA MANAGEMENT",
+            "function": "FACTORY",
+            "method": "DELETE"
+        },
+        {
+            "id": 1217,
+            "code": "OT.MD.FAC.MD",
+            "module": "ORCHESTRATION",
+            "group": "MASTER DATA MANAGEMENT",
+            "function": "FACTORY",
+            "method": "MODIFY"
+        },
+        {
+            "id": 1243,
+            "code": "OT.MD.SK.DL",
+            "module": "ORCHESTRATION",
+            "group": "MASTER DATA MANAGEMENT",
+            "function": "SKILL",
+            "method": "DELETE"
+        },
+        {
+            "id": 1244,
+            "code": "OT.MD.SK.MD",
+            "module": "ORCHESTRATION",
+            "group": "MASTER DATA MANAGEMENT",
+            "function": "SKILL",
+            "method": "MODIFY"
+        },
+        {
+            "id": 1245,
+            "code": "OT.MD.SK.VW",
+            "module": "ORCHESTRATION",
+            "group": "MASTER DATA MANAGEMENT",
+            "function": "SKILL",
+            "method": "VIEW"
+        },
+        {
+            "id": 1246,
+            "code": "OT.MD.SKS.DL",
+            "module": "ORCHESTRATION",
+            "group": "MASTER DATA MANAGEMENT",
+            "function": "SKILL SET",
+            "method": "DELETE"
+        },
+        {
+            "id": 1247,
+            "code": "OT.MD.SKS.MD",
+            "module": "ORCHESTRATION",
+            "group": "MASTER DATA MANAGEMENT",
+            "function": "SKILL SET",
+            "method": "MODIFY"
+        },
+        {
+            "id": 1248,
+            "code": "OT.MD.SKS.VW",
+            "module": "ORCHESTRATION",
+            "group": "MASTER DATA MANAGEMENT",
+            "function": "SKILL SET",
+            "method": "VIEW"
+        },
+        {
+            "id": 1249,
+            "code": "OT.MD.SL.VW",
+            "module": "ORCHESTRATION",
+            "group": "MASTER DATA MANAGEMENT",
+            "function": "SUPPLIER",
+            "method": "VIEW"
+        },
+        {
+            "id": 1250,
+            "code": "OT.MD.UM.DL",
+            "module": "ORCHESTRATION",
+            "group": "MASTER DATA MANAGEMENT",
+            "function": "UNIT OF MEASUREMENT",
+            "method": "DELETE"
+        },
+        {
+            "id": 1251,
+            "code": "OT.MD.UM.MD",
+            "module": "ORCHESTRATION",
+            "group": "MASTER DATA MANAGEMENT",
+            "function": "UNIT OF MEASUREMENT",
+            "method": "MODIFY"
+        },
+        {
+            "id": 1252,
+            "code": "OT.MD.UM.VW",
+            "module": "ORCHESTRATION",
+            "group": "MASTER DATA MANAGEMENT",
+            "function": "UNIT OF MEASUREMENT",
+            "method": "VIEW"
+        },
+        {
+            "id": 1253,
+            "code": "OT.MD.US.DL",
+            "module": "ORCHESTRATION",
+            "group": "MASTER DATA MANAGEMENT",
+            "function": "USER",
+            "method": "DELETE"
+        },
+        {
+            "id": 1254,
+            "code": "OT.MD.US.MD",
+            "module": "ORCHESTRATION",
+            "group": "MASTER DATA MANAGEMENT",
+            "function": "USER",
+            "method": "MODIFY"
+        },
+        {
+            "id": 1255,
+            "code": "OT.MD.US.VW",
+            "module": "ORCHESTRATION",
+            "group": "MASTER DATA MANAGEMENT",
+            "function": "USER",
+            "method": "VIEW"
+        },
+        {
+            "id": 1256,
+            "code": "OT.MD.VE.DL",
+            "module": "ORCHESTRATION",
+            "group": "MASTER DATA MANAGEMENT",
+            "function": "VENDOR",
+            "method": "DELETE"
+        },
+        {
+            "id": 1257,
+            "code": "OT.MD.VE.MD",
+            "module": "ORCHESTRATION",
+            "group": "MASTER DATA MANAGEMENT",
+            "function": "VENDOR",
+            "method": "MODIFY"
+        },
+        {
+            "id": 1258,
+            "code": "OT.MD.VE.VW",
+            "module": "ORCHESTRATION",
+            "group": "MASTER DATA MANAGEMENT",
+            "function": "VENDOR",
+            "method": "VIEW"
+        },
+        {
+            "id": 1259,
+            "code": "OT.MD.WHM.DL",
+            "module": "ORCHESTRATION",
+            "group": "MASTER DATA MANAGEMENT",
+            "function": "WAREHOUSE MASTER",
+            "method": "DELETE"
+        },
+        {
+            "id": 1260,
+            "code": "OT.MD.WHM.MD",
+            "module": "ORCHESTRATION",
+            "group": "MASTER DATA MANAGEMENT",
+            "function": "WAREHOUSE MASTER",
+            "method": "MODIFY"
+        },
+        {
+            "id": 1261,
+            "code": "OT.MD.WHM.VW",
+            "module": "ORCHESTRATION",
+            "group": "MASTER DATA MANAGEMENT",
+            "function": "WAREHOUSE MASTER",
+            "method": "VIEW"
+        },
+        {
+            "id": 1262,
+            "code": "OT.MD.WS.DL",
+            "module": "ORCHESTRATION",
+            "group": "MASTER DATA MANAGEMENT",
+            "function": "WORKSHOP",
+            "method": "DELETE"
+        },
+        {
+            "id": 1263,
+            "code": "OT.MD.WS.MD",
+            "module": "ORCHESTRATION",
+            "group": "MASTER DATA MANAGEMENT",
+            "function": "WORKSHOP",
+            "method": "MODIFY"
+        },
+        {
+            "id": 1264,
+            "code": "OT.MD.WS.VW",
+            "module": "ORCHESTRATION",
+            "group": "MASTER DATA MANAGEMENT",
+            "function": "WORKSHOP",
+            "method": "VIEW"
+        },
+        {
+            "id": 1265,
+            "code": "OT.MD.WO.DL",
+            "module": "ORCHESTRATION",
+            "group": "MASTER DATA MANAGEMENT",
+            "function": "WORKSTATION",
+            "method": "DELETE"
+        },
+        {
+            "id": 1266,
+            "code": "OT.MD.WO.MD",
+            "module": "ORCHESTRATION",
+            "group": "MASTER DATA MANAGEMENT",
+            "function": "WORKSTATION",
+            "method": "MODIFY"
+        },
+        {
+            "id": 1267,
+            "code": "OT.MD.WO.VW",
+            "module": "ORCHESTRATION",
+            "group": "MASTER DATA MANAGEMENT",
+            "function": "WORKSTATION",
+            "method": "VIEW"
+        },
+        {
+            "id": 1268,
+            "code": "OT.MD.WG.VW",
+            "module": "ORCHESTRATION",
+            "group": "MASTER DATA MANAGEMENT",
+            "function": "WORKSTATION GROUP",
+            "method": "VIEW"
+        },
+        {
+            "id": 1437,
+            "code": "OT.MD.WG.MD",
+            "module": "ORCHESTRATION",
+            "group": "MASTER DATA MANAGEMENT",
+            "function": "WORKSTATION GROUP",
+            "method": "MODIFY"
+        },
+        {
+            "id": 1438,
+            "code": "OT.MD.WG.DL",
+            "module": "ORCHESTRATION",
+            "group": "MASTER DATA MANAGEMENT",
+            "function": "WORKSTATION GROUP",
+            "method": "DELETE"
+        },
+        {
+            "id": 1712,
+            "code": "OT.MD.PS.DL",
+            "module": "ORCHESTRATION",
+            "group": "MASTER DATA MANAGEMENT",
+            "function": "POSITION",
+            "method": "DELETE"
+        },
+        {
+            "id": 1713,
+            "code": "OT.MD.PS.MD",
+            "module": "ORCHESTRATION",
+            "group": "MASTER DATA MANAGEMENT",
+            "function": "POSITION",
+            "method": "MODIFY"
+        },
+        {
+            "id": 1714,
+            "code": "OT.MD.PS.VW",
+            "module": "ORCHESTRATION",
+            "group": "MASTER DATA MANAGEMENT",
+            "function": "POSITION",
+            "method": "VIEW"
+        },
+        {
+            "id": 1973,
+            "code": "OT.MD.UC.DL",
+            "module": "ORCHESTRATION",
+            "group": "MASTER DATA MANAGEMENT",
+            "function": "UNIT CONVERSION",
+            "method": "DELETE"
+        },
+        {
+            "id": 1974,
+            "code": "OT.MD.UC.MD",
+            "module": "ORCHESTRATION",
+            "group": "MASTER DATA MANAGEMENT",
+            "function": "UNIT CONVERSION",
+            "method": "MODIFY"
+        },
+        {
+            "id": 1975,
+            "code": "OT.MD.UC.VW",
+            "module": "ORCHESTRATION",
+            "group": "MASTER DATA MANAGEMENT",
+            "function": "UNIT CONVERSION",
+            "method": "VIEW"
+        },
+        {
+            "id": 1441,
+            "code": "OT.MD.RK.VW",
+            "module": "ORCHESTRATION",
+            "group": "MASTER DATA MANAGEMENT",
+            "function": "RACK",
+            "method": "VIEW"
+        },
+        {
+            "id": 1442,
+            "code": "OT.MD.BI.DL",
+            "module": "ORCHESTRATION",
+            "group": "MASTER DATA MANAGEMENT",
+            "function": "BIN",
+            "method": "DELETE"
+        },
+        {
+            "id": 1443,
+            "code": "OT.MD.BI.MD",
+            "module": "ORCHESTRATION",
+            "group": "MASTER DATA MANAGEMENT",
+            "function": "BIN",
+            "method": "MODIFY"
+        },
+        {
+            "id": 1444,
+            "code": "OT.MD.BI.VW",
+            "module": "ORCHESTRATION",
+            "group": "MASTER DATA MANAGEMENT",
+            "function": "BIN",
+            "method": "VIEW"
+        },
+        {
+            "id": 1445,
+            "code": "OT.SS.MAC.DL",
+            "module": "ORCHESTRATION",
+            "group": "SYSTEM SETTINGS",
+            "function": "MASTER CONFIG",
+            "method": "DELETE"
+        },
+        {
+            "id": 1446,
+            "code": "OT.SS.MAC.MD",
+            "module": "ORCHESTRATION",
+            "group": "SYSTEM SETTINGS",
+            "function": "MASTER CONFIG",
+            "method": "MODIFY"
+        },
+        {
+            "id": 1447,
+            "code": "OT.SS.MAC.VW",
+            "module": "ORCHESTRATION",
+            "group": "SYSTEM SETTINGS",
+            "function": "MASTER CONFIG",
+            "method": "VIEW"
+        },
+        {
+            "id": 1724,
+            "code": "QL.IN.BA.DL",
+            "module": "QUALITY",
+            "group": "INSPECTION MANAGEMENT",
+            "function": "RELEASING ORDER",
+            "method": "DELETE"
+        },
+        {
+            "id": 1725,
+            "code": "QL.IN.BA.MD",
+            "module": "QUALITY",
+            "group": "INSPECTION MANAGEMENT",
+            "function": "RELEASING ORDER",
+            "method": "MODIFY"
+        },
+        {
+            "id": 1726,
+            "code": "QL.IN.BA.VW",
+            "module": "QUALITY",
+            "group": "INSPECTION MANAGEMENT",
+            "function": "RELEASING ORDER",
+            "method": "VIEW"
+        },
+        {
+            "id": 1727,
+            "code": "QL.IN.BA.SM",
+            "module": "QUALITY",
+            "group": "INSPECTION MANAGEMENT",
+            "function": "RELEASING ORDER",
+            "method": "SUBMIT"
+        },
+        {
+            "id": 1728,
+            "code": "QL.IN.BA.RL",
+            "module": "QUALITY",
+            "group": "INSPECTION MANAGEMENT",
+            "function": "RELEASING ORDER",
+            "method": "RELEASE"
+        },
+        {
+            "id": 1729,
+            "code": "QL.IN.BA.CC",
+            "module": "QUALITY",
+            "group": "INSPECTION MANAGEMENT",
+            "function": "RELEASING ORDER",
+            "method": "CANCEL"
+        },
+        {
+            "id": 1277,
+            "code": "OT.SS.DLT.DL",
+            "module": "ORCHESTRATION",
+            "group": "SYSTEM SETTINGS",
+            "function": "DELIVERY LEAD TIME",
+            "method": "DELETE"
+        },
+        {
+            "id": 1278,
+            "code": "OT.SS.DLT.MD",
+            "module": "ORCHESTRATION",
+            "group": "SYSTEM SETTINGS",
+            "function": "DELIVERY LEAD TIME",
+            "method": "MODIFY"
+        },
+        {
+            "id": 1279,
+            "code": "OT.SS.DLT.VW",
+            "module": "ORCHESTRATION",
+            "group": "SYSTEM SETTINGS",
+            "function": "DELIVERY LEAD TIME",
+            "method": "VIEW"
+        },
+        {
+            "id": 1280,
+            "code": "OT.SS.EC.DL",
+            "module": "ORCHESTRATION",
+            "group": "SYSTEM SETTINGS",
+            "function": "EMAI CONFIG",
+            "method": "DELETE"
+        },
+        {
+            "id": 1269,
+            "code": "OT.SS.LS.MD",
+            "module": "ORCHESTRATION",
+            "group": "SYSTEM SETTINGS",
+            "function": "LICENSE",
+            "method": "MODIFY"
+        },
+        {
+            "id": 1270,
+            "code": "OT.SS.LS.VW",
+            "module": "ORCHESTRATION",
+            "group": "SYSTEM SETTINGS",
+            "function": "LICENSE",
+            "method": "VIEW"
+        },
+        {
+            "id": 1271,
+            "code": "OT.SS.AL.DL",
+            "module": "ORCHESTRATION",
+            "group": "SYSTEM SETTINGS",
+            "function": "ALERT SETTINGS",
+            "method": "DELETE"
+        },
+        {
+            "id": 1272,
+            "code": "OT.SS.AL.MD",
+            "module": "ORCHESTRATION",
+            "group": "SYSTEM SETTINGS",
+            "function": "ALERT SETTINGS",
+            "method": "MODIFY"
+        },
+        {
+            "id": 1273,
+            "code": "OT.SS.AL.VW",
+            "module": "ORCHESTRATION",
+            "group": "SYSTEM SETTINGS",
+            "function": "ALERT SETTINGS",
+            "method": "VIEW"
+        },
+        {
+            "id": 1274,
+            "code": "OT.SS.BOM.DL",
+            "module": "ORCHESTRATION",
+            "group": "SYSTEM SETTINGS",
+            "function": "BILL OF MATERIALS",
+            "method": "DELETE"
+        },
+        {
+            "id": 1275,
+            "code": "OT.SS.BOM.MD",
+            "module": "ORCHESTRATION",
+            "group": "SYSTEM SETTINGS",
+            "function": "BILL OF MATERIALS",
+            "method": "MODIFY"
+        },
+        {
+            "id": 1276,
+            "code": "OT.SS.BOM.VW",
+            "module": "ORCHESTRATION",
+            "group": "SYSTEM SETTINGS",
+            "function": "BILL OF MATERIALS",
+            "method": "VIEW"
+        },
+        {
+            "id": 1281,
+            "code": "OT.SS.EC.MD",
+            "module": "ORCHESTRATION",
+            "group": "SYSTEM SETTINGS",
+            "function": "EMAI CONFIG",
+            "method": "MODIFY"
+        },
+        {
+            "id": 1282,
+            "code": "OT.SS.EC.VW",
+            "module": "ORCHESTRATION",
+            "group": "SYSTEM SETTINGS",
+            "function": "EMAI CONFIG",
+            "method": "VIEW"
+        },
+        {
+            "id": 1283,
+            "code": "OT.SS.PT.DL",
+            "module": "ORCHESTRATION",
+            "group": "SYSTEM SETTINGS",
+            "function": "PRINTER SETTINGS",
+            "method": "DELETE"
+        },
+        {
+            "id": 1284,
+            "code": "OT.SS.PT.MD",
+            "module": "ORCHESTRATION",
+            "group": "SYSTEM SETTINGS",
+            "function": "PRINTER SETTINGS",
+            "method": "MODIFY"
+        },
+        {
+            "id": 1285,
+            "code": "OT.SS.PT.VW",
+            "module": "ORCHESTRATION",
+            "group": "SYSTEM SETTINGS",
+            "function": "PRINTER SETTINGS",
+            "method": "VIEW"
+        },
+        {
+            "id": 1286,
+            "code": "OT.SS.RAP.DL",
+            "module": "ORCHESTRATION",
+            "group": "SYSTEM SETTINGS",
+            "function": "ROLE AND PERMISSION",
+            "method": "DELETE"
+        },
+        {
+            "id": 1287,
+            "code": "OT.SS.RAP.MD",
+            "module": "ORCHESTRATION",
+            "group": "SYSTEM SETTINGS",
+            "function": "ROLE AND PERMISSION",
+            "method": "MODIFY"
+        },
+        {
+            "id": 1288,
+            "code": "OT.SS.RAP.VW",
+            "module": "ORCHESTRATION",
+            "group": "SYSTEM SETTINGS",
+            "function": "ROLE AND PERMISSION",
+            "method": "VIEW"
+        },
+        {
+            "id": 1289,
+            "code": "OT.SS.RO.DL",
+            "module": "ORCHESTRATION",
+            "group": "SYSTEM SETTINGS",
+            "function": "ROUTING",
+            "method": "DELETE"
+        },
+        {
+            "id": 1290,
+            "code": "OT.SS.RO.MD",
+            "module": "ORCHESTRATION",
+            "group": "SYSTEM SETTINGS",
+            "function": "ROUTING",
+            "method": "MODIFY"
+        },
+        {
+            "id": 1291,
+            "code": "OT.SS.RO.VW",
+            "module": "ORCHESTRATION",
+            "group": "SYSTEM SETTINGS",
+            "function": "ROUTING",
+            "method": "VIEW"
+        },
+        {
+            "id": 1292,
+            "code": "OT.SS.SES.MD",
+            "module": "ORCHESTRATION",
+            "group": "SYSTEM SETTINGS",
+            "function": "SCHEDULE SETTINGS",
+            "method": "MODIFY"
+        },
+        {
+            "id": 1293,
+            "code": "OT.SS.SES.VW",
+            "module": "ORCHESTRATION",
+            "group": "SYSTEM SETTINGS",
+            "function": "SCHEDULE SETTINGS",
+            "method": "VIEW"
+        },
+        {
+            "id": 1294,
+            "code": "OT.SS.WH.DL",
+            "module": "ORCHESTRATION",
+            "group": "SYSTEM SETTINGS",
+            "function": "WAREHOUSE SETTINGS",
+            "method": "DELETE"
+        },
+        {
+            "id": 1295,
+            "code": "OT.SS.WH.MD",
+            "module": "ORCHESTRATION",
+            "group": "SYSTEM SETTINGS",
+            "function": "WAREHOUSE SETTINGS",
+            "method": "MODIFY"
+        },
+        {
+            "id": 1296,
+            "code": "OT.SS.WH.VW",
+            "module": "ORCHESTRATION",
+            "group": "SYSTEM SETTINGS",
+            "function": "WAREHOUSE SETTINGS",
+            "method": "VIEW"
+        },
+        {
+            "id": 1297,
+            "code": "OT.SS.WI.DL",
+            "module": "ORCHESTRATION",
+            "group": "SYSTEM SETTINGS",
+            "function": "WORK INSTRUCTION",
+            "method": "DELETE"
+        },
+        {
+            "id": 1298,
+            "code": "OT.SS.WI.MD",
+            "module": "ORCHESTRATION",
+            "group": "SYSTEM SETTINGS",
+            "function": "WORK INSTRUCTION",
+            "method": "MODIFY"
+        },
+        {
+            "id": 1299,
+            "code": "OT.SS.WI.VW",
+            "module": "ORCHESTRATION",
+            "group": "SYSTEM SETTINGS",
+            "function": "WORK INSTRUCTION",
+            "method": "VIEW"
+        },
+        {
+            "id": 1300,
+            "code": "OT.SS.WT.DL",
+            "module": "ORCHESTRATION",
+            "group": "SYSTEM SETTINGS",
+            "function": "WORKING TIME SETTINGS",
+            "method": "DELETE"
+        },
+        {
+            "id": 1301,
+            "code": "OT.SS.WT.MD",
+            "module": "ORCHESTRATION",
+            "group": "SYSTEM SETTINGS",
+            "function": "WORKING TIME SETTINGS",
+            "method": "MODIFY"
+        },
+        {
+            "id": 1302,
+            "code": "OT.SS.WT.VW",
+            "module": "ORCHESTRATION",
+            "group": "SYSTEM SETTINGS",
+            "function": "WORKING TIME SETTINGS",
+            "method": "VIEW"
+        },
+        {
+            "id": 1303,
+            "code": "OT.SS.TT.DL",
+            "module": "ORCHESTRATION",
+            "group": "SYSTEM SETTINGS",
+            "function": "WORK TIME TABLE",
+            "method": "DELETE"
+        },
+        {
+            "id": 1304,
+            "code": "OT.SS.TT.MD",
+            "module": "ORCHESTRATION",
+            "group": "SYSTEM SETTINGS",
+            "function": "WORK TIME TABLE",
+            "method": "MODIFY"
+        },
+        {
+            "id": 1305,
+            "code": "OT.SS.TT.VW",
+            "module": "ORCHESTRATION",
+            "group": "SYSTEM SETTINGS",
+            "function": "WORK TIME TABLE",
+            "method": "VIEW"
+        },
+        {
+            "id": 1306,
+            "code": "PR.PF.INV.DL",
+            "module": "PRODUCTION",
+            "group": "PRODUCTION PLAN",
+            "function": "INVENTORY",
+            "method": "DELETE"
+        },
+        {
+            "id": 1307,
+            "code": "PR.PF.INV.MD",
+            "module": "PRODUCTION",
+            "group": "PRODUCTION PLAN",
+            "function": "INVENTORY",
+            "method": "MODIFY"
+        },
+        {
+            "id": 1308,
+            "code": "PR.PF.INV.VW",
+            "module": "PRODUCTION",
+            "group": "PRODUCTION PLAN",
+            "function": "INVENTORY",
+            "method": "VIEW"
+        },
+        {
+            "id": 1381,
+            "code": "PR.PF.INV.IP",
+            "module": "PRODUCTION",
+            "group": "PRODUCTION PLAN",
+            "function": "INVENTORY",
+            "method": "IMPORT"
+        },
+        {
+            "id": 1309,
+            "code": "PR.PF.MAR.VW",
+            "module": "PRODUCTION",
+            "group": "PRODUCTION PLAN",
+            "function": "MATERIAL REQUEST",
+            "method": "VIEW"
+        },
+        {
+            "id": 1310,
+            "code": "PR.PF.PL.DL",
+            "module": "PRODUCTION",
+            "group": "PRODUCTION PLAN",
+            "function": "PLAN",
+            "method": "DELETE"
+        },
+        {
+            "id": 1311,
+            "code": "PR.PF.PL.MD",
+            "module": "PRODUCTION",
+            "group": "PRODUCTION PLAN",
+            "function": "PLAN",
+            "method": "MODIFY"
+        },
+        {
+            "id": 1312,
+            "code": "PR.PF.PL.VW",
+            "module": "PRODUCTION",
+            "group": "PRODUCTION PLAN",
+            "function": "PLAN",
+            "method": "VIEW"
+        },
+        {
+            "id": 1313,
+            "code": "PR.PF.RE.DL",
+            "module": "PRODUCTION",
+            "group": "PRODUCTION PLAN",
+            "function": "PLAN RECEIPTS",
+            "method": "DELETE"
+        },
+        {
+            "id": 1314,
+            "code": "PR.PF.RE.MD",
+            "module": "PRODUCTION",
+            "group": "PRODUCTION PLAN",
+            "function": "PLAN RECEIPTS",
+            "method": "MODIFY"
+        },
+        {
+            "id": 1315,
+            "code": "PR.PF.RE.VW",
+            "module": "PRODUCTION",
+            "group": "PRODUCTION PLAN",
+            "function": "PLAN RECEIPTS",
+            "method": "VIEW"
+        },
+        {
+            "id": 1382,
+            "code": "PR.PF.RE.IP",
+            "module": "PRODUCTION",
+            "group": "PRODUCTION PLAN",
+            "function": "PLAN RECEIPTS",
+            "method": "IMPORT"
+        },
+        {
+            "id": 1316,
+            "code": "PR.PF.PRO.VW",
+            "module": "PRODUCTION",
+            "group": "PRODUCTION PLAN",
+            "function": "PRODUCTION ORDER",
+            "method": "VIEW"
+        },
+        {
+            "id": 1317,
+            "code": "PR.PF.SO.DL",
+            "module": "PRODUCTION",
+            "group": "PRODUCTION PLAN",
+            "function": "SALES ORDER",
+            "method": "DELETE"
+        },
+        {
+            "id": 1318,
+            "code": "PR.PF.SO.IP",
+            "module": "PRODUCTION",
+            "group": "PRODUCTION PLAN",
+            "function": "SALES ORDER",
+            "method": "IMPORT"
+        },
+        {
+            "id": 1319,
+            "code": "PR.PF.SO.MD",
+            "module": "PRODUCTION",
+            "group": "PRODUCTION PLAN",
+            "function": "SALES ORDER",
+            "method": "MODIFY"
+        },
+        {
+            "id": 1320,
+            "code": "PR.PF.SO.VW",
+            "module": "PRODUCTION",
+            "group": "PRODUCTION PLAN",
+            "function": "SALES ORDER",
+            "method": "VIEW"
+        },
+        {
+            "id": 1321,
+            "code": "QL.IN.AQ.VW",
+            "module": "QUALITY",
+            "group": "INSPECTION MANAGEMENT",
+            "function": "AQL",
+            "method": "VIEW"
+        },
+        {
+            "id": 1322,
+            "code": "QL.IN.GM.DL",
+            "module": "QUALITY",
+            "group": "INSPECTION MANAGEMENT",
+            "function": "GROUP MASTER",
+            "method": "DELETE"
+        },
+        {
+            "id": 1323,
+            "code": "QL.IN.GM.MD",
+            "module": "QUALITY",
+            "group": "INSPECTION MANAGEMENT",
+            "function": "GROUP MASTER",
+            "method": "MODIFY"
+        },
+        {
+            "id": 1324,
+            "code": "QL.IN.GM.VW",
+            "module": "QUALITY",
+            "group": "INSPECTION MANAGEMENT",
+            "function": "GROUP MASTER",
+            "method": "VIEW"
+        },
+        {
+            "id": 2039,
+            "code": "QL.IN.ST.DL",
+            "module": "QUALITY",
+            "group": "INSPECTION MANAGEMENT",
+            "function": "SAMPLING TYPE",
+            "method": "DELETE"
+        },
+        {
+            "id": 2040,
+            "code": "QL.IN.ST.MD",
+            "module": "QUALITY",
+            "group": "INSPECTION MANAGEMENT",
+            "function": "SAMPLING TYPE",
+            "method": "MODIFY"
+        },
+        {
+            "id": 2041,
+            "code": "QL.IN.ST.VW",
+            "module": "QUALITY",
+            "group": "INSPECTION MANAGEMENT",
+            "function": "SAMPLING TYPE",
+            "method": "VIEW"
+        },
+        {
+            "id": 2042,
+            "code": "QL.IN.SQ.DL",
+            "module": "QUALITY",
+            "group": "INSPECTION MANAGEMENT",
+            "function": "SAMPLING QUANTITY",
+            "method": "DELETE"
+        },
+        {
+            "id": 2043,
+            "code": "QL.IN.SQ.MD",
+            "module": "QUALITY",
+            "group": "INSPECTION MANAGEMENT",
+            "function": "SAMPLING QUANTITY",
+            "method": "MODIFY"
+        },
+        {
+            "id": 2044,
+            "code": "QL.IN.SQ.VW",
+            "module": "QUALITY",
+            "group": "INSPECTION MANAGEMENT",
+            "function": "SAMPLING QUANTITY",
+            "method": "VIEW"
+        },
+        {
+            "id": 2045,
+            "code": "QL.IN.SQ.RL",
+            "module": "QUALITY",
+            "group": "INSPECTION MANAGEMENT",
+            "function": "SAMPLING QUANTITY",
+            "method": "RELEASE"
+        },
+        {
+            "id": 1325,
+            "code": "QL.IN.IE.DL",
+            "module": "QUALITY",
+            "group": "INSPECTION MANAGEMENT",
+            "function": "INSPECTION EXECUTION",
+            "method": "DELETE"
+        },
+        {
+            "id": 1326,
+            "code": "QL.IN.IE.MD",
+            "module": "QUALITY",
+            "group": "INSPECTION MANAGEMENT",
+            "function": "INSPECTION EXECUTION",
+            "method": "MODIFY"
+        },
+        {
+            "id": 1333,
+            "code": "QL.IN.TE.DL",
+            "module": "QUALITY",
+            "group": "INSPECTION MANAGEMENT",
+            "function": "INSPECTION TEMPLATE",
+            "method": "DELETE"
+        },
+        {
+            "id": 1334,
+            "code": "QL.IN.TE.EP",
+            "module": "QUALITY",
+            "group": "INSPECTION MANAGEMENT",
+            "function": "INSPECTION TEMPLATE",
+            "method": "EXPORT"
+        },
+        {
+            "id": 1327,
+            "code": "QL.IN.IE.VW",
+            "module": "QUALITY",
+            "group": "INSPECTION MANAGEMENT",
+            "function": "INSPECTION EXECUTION",
+            "method": "VIEW"
+        },
+        {
+            "id": 1328,
+            "code": "QL.IN.IO.AP",
+            "module": "QUALITY",
+            "group": "INSPECTION MANAGEMENT",
+            "function": "INSPECTION ORDER",
+            "method": "APPROVE"
+        },
+        {
+            "id": 1329,
+            "code": "QL.IN.IO.DL",
+            "module": "QUALITY",
+            "group": "INSPECTION MANAGEMENT",
+            "function": "INSPECTION ORDER",
+            "method": "DELETE"
+        },
+        {
+            "id": 1330,
+            "code": "QL.IN.IO.MD",
+            "module": "QUALITY",
+            "group": "INSPECTION MANAGEMENT",
+            "function": "INSPECTION ORDER",
+            "method": "MODIFY"
+        },
+        {
+            "id": 1331,
+            "code": "QL.IN.IO.RJ",
+            "module": "QUALITY",
+            "group": "INSPECTION MANAGEMENT",
+            "function": "INSPECTION ORDER",
+            "method": "REJECT"
+        },
+        {
+            "id": 1332,
+            "code": "QL.IN.IO.VW",
+            "module": "QUALITY",
+            "group": "INSPECTION MANAGEMENT",
+            "function": "INSPECTION ORDER",
+            "method": "VIEW"
+        },
+        {
+            "id": 1788,
+            "code": "QL.IN.IO.CC",
+            "module": "QUALITY",
+            "group": "INSPECTION MANAGEMENT",
+            "function": "INSPECTION ORDER",
+            "method": "CANCEL"
+        },
+        {
+            "id": 1789,
+            "code": "QL.IN.IO.RI",
+            "module": "QUALITY",
+            "group": "INSPECTION MANAGEMENT",
+            "function": "INSPECTION ORDER",
+            "method": "RE-INSPECTION"
+        },
+        {
+            "id": 1790,
+            "code": "QL.IN.IO.RL",
+            "module": "QUALITY",
+            "group": "INSPECTION MANAGEMENT",
+            "function": "INSPECTION ORDER",
+            "method": "RELEASE"
+        },
+        {
+            "id": 1791,
+            "code": "QL.IN.IO.EPC",
+            "module": "QUALITY",
+            "group": "INSPECTION MANAGEMENT",
+            "function": "INSPECTION ORDER",
+            "method": "EXPORT-COA"
+        },
+        {
+            "id": 2058,
+            "code": "QL.IN.IO.SM",
+            "module": "QUALITY",
+            "group": "INSPECTION MANAGEMENT",
+            "function": "INSPECTION ORDER",
+            "method": "SUBMIT"
+        },
+        {
+            "id": 2059,
+            "code": "QL.IN.SAO.DL",
+            "module": "QUALITY",
+            "group": "INSPECTION MANAGEMENT",
+            "function": "SAMPLING ORDER",
+            "method": "DELETE"
+        },
+        {
+            "id": 2060,
+            "code": "QL.IN.SAO.MD",
+            "module": "QUALITY",
+            "group": "INSPECTION MANAGEMENT",
+            "function": "SAMPLING ORDER",
+            "method": "MODIFY"
+        },
+        {
+            "id": 2061,
+            "code": "QL.IN.SAO.VW",
+            "module": "QUALITY",
+            "group": "INSPECTION MANAGEMENT",
+            "function": "SAMPLING ORDER",
+            "method": "VIEW"
+        },
+        {
+            "id": 2062,
+            "code": "QL.IN.SAO.AP",
+            "module": "QUALITY",
+            "group": "INSPECTION MANAGEMENT",
+            "function": "SAMPLING ORDER",
+            "method": "APPROVE"
+        },
+        {
+            "id": 2063,
+            "code": "QL.IN.SAO.RJ",
+            "module": "QUALITY",
+            "group": "INSPECTION MANAGEMENT",
+            "function": "SAMPLING ORDER",
+            "method": "REJECT"
+        },
+        {
+            "id": 2064,
+            "code": "QL.IN.SAO.RL",
+            "module": "QUALITY",
+            "group": "INSPECTION MANAGEMENT",
+            "function": "SAMPLING ORDER",
+            "method": "RELEASE"
+        },
+        {
+            "id": 2065,
+            "code": "QL.IN.SE.PT",
+            "module": "QUALITY",
+            "group": "INSPECTION MANAGEMENT",
+            "function": "SAMPLING EXECUTION",
+            "method": "PRINT"
+        },
+        {
+            "id": 2066,
+            "code": "QL.IN.SE.MD",
+            "module": "QUALITY",
+            "group": "INSPECTION MANAGEMENT",
+            "function": "SAMPLING EXECUTION",
+            "method": "MODIFY"
+        },
+        {
+            "id": 2067,
+            "code": "QL.IN.SE.VW",
+            "module": "QUALITY",
+            "group": "INSPECTION MANAGEMENT",
+            "function": "SAMPLING EXECUTION",
+            "method": "VIEW"
+        },
+        {
+            "id": 1335,
+            "code": "QL.IN.TE.IP",
+            "module": "QUALITY",
+            "group": "INSPECTION MANAGEMENT",
+            "function": "INSPECTION TEMPLATE",
+            "method": "IMPORT"
+        },
+        {
+            "id": 1336,
+            "code": "QL.IN.TE.MD",
+            "module": "QUALITY",
+            "group": "INSPECTION MANAGEMENT",
+            "function": "INSPECTION TEMPLATE",
+            "method": "MODIFY"
+        },
+        {
+            "id": 1337,
+            "code": "QL.IN.TE.VW",
+            "module": "QUALITY",
+            "group": "INSPECTION MANAGEMENT",
+            "function": "INSPECTION TEMPLATE",
+            "method": "VIEW"
+        },
+        {
+            "id": 1797,
+            "code": "QL.IN.TE.CL",
+            "module": "QUALITY",
+            "group": "INSPECTION MANAGEMENT",
+            "function": "INSPECTION TEMPLATE",
+            "method": "CLONE"
+        },
+        {
+            "id": 1798,
+            "code": "QL.IN.TE.RL",
+            "module": "QUALITY",
+            "group": "INSPECTION MANAGEMENT",
+            "function": "INSPECTION TEMPLATE",
+            "method": "RELEASE"
+        },
+        {
+            "id": 1338,
+            "code": "QL.IN.EL.DL",
+            "module": "QUALITY",
+            "group": "INSPECTION MANAGEMENT",
+            "function": "ITEM CHECK",
+            "method": "DELETE"
+        },
+        {
+            "id": 1339,
+            "code": "QL.IN.EL.MD",
+            "module": "QUALITY",
+            "group": "INSPECTION MANAGEMENT",
+            "function": "ITEM CHECK",
+            "method": "MODIFY"
+        },
+        {
+            "id": 1340,
+            "code": "QL.IN.EL.VW",
+            "module": "QUALITY",
+            "group": "INSPECTION MANAGEMENT",
+            "function": "ITEM CHECK",
+            "method": "VIEW"
+        },
+        {
+            "id": 1341,
+            "code": "QL.RD.IRR.VW",
+            "module": "QUALITY",
+            "group": "REPORT DASBOARD",
+            "function": "INSPECTION RESULT REPORT",
+            "method": "VIEW"
+        },
+        {
+            "id": 1342,
+            "code": "QL.RD.SCC.VW",
+            "module": "QUALITY",
+            "group": "REPORT DASBOARD",
+            "function": "SPC CHART",
+            "method": "VIEW"
+        },
+        {
+            "id": 1343,
+            "code": "QL.RD.SCR.VW",
+            "module": "QUALITY",
+            "group": "REPORT DASBOARD",
+            "function": "SPC REPORT",
+            "method": "VIEW"
+        },
+        {
+            "id": 1344,
+            "code": "WH.IM.IA.AC",
+            "module": "WAREHOUSE",
+            "group": "INVENTORY MANAGEMENT",
+            "function": "INVENTORY ADJUST",
+            "method": "ACCEPT"
+        },
+        {
+            "id": 1345,
+            "code": "WH.IM.IA.AP",
+            "module": "WAREHOUSE",
+            "group": "INVENTORY MANAGEMENT",
+            "function": "INVENTORY ADJUST",
+            "method": "APPROVE"
+        },
+        {
+            "id": 1346,
+            "code": "WH.IM.IA.CA",
+            "module": "WAREHOUSE",
+            "group": "INVENTORY MANAGEMENT",
+            "function": "INVENTORY ADJUST",
+            "method": "CONFIRM ADJUST"
+        },
+        {
+            "id": 1347,
+            "code": "WH.IM.IA.DL",
+            "module": "WAREHOUSE",
+            "group": "INVENTORY MANAGEMENT",
+            "function": "INVENTORY ADJUST",
+            "method": "DELETE"
+        },
+        {
+            "id": 1348,
+            "code": "WH.IM.IA.EP",
+            "module": "WAREHOUSE",
+            "group": "INVENTORY MANAGEMENT",
+            "function": "INVENTORY ADJUST",
+            "method": "EXPORT"
+        },
+        {
+            "id": 1349,
+            "code": "WH.IM.IA.FN",
+            "module": "WAREHOUSE",
+            "group": "INVENTORY MANAGEMENT",
+            "function": "INVENTORY ADJUST",
+            "method": "FINISH"
+        },
+        {
+            "id": 1350,
+            "code": "WH.IM.IA.IP",
+            "module": "WAREHOUSE",
+            "group": "INVENTORY MANAGEMENT",
+            "function": "INVENTORY ADJUST",
+            "method": "IMPORT"
+        },
+        {
+            "id": 1351,
+            "code": "WH.IM.IA.IS",
+            "module": "WAREHOUSE",
+            "group": "INVENTORY MANAGEMENT",
+            "function": "INVENTORY ADJUST",
+            "method": "INSPECT"
+        },
+        {
+            "id": 1352,
+            "code": "WH.IM.IA.MD",
+            "module": "WAREHOUSE",
+            "group": "INVENTORY MANAGEMENT",
+            "function": "INVENTORY ADJUST",
+            "method": "MODIFY"
+        },
+        {
+            "id": 1353,
+            "code": "WH.IM.IA.PT",
+            "module": "WAREHOUSE",
+            "group": "INVENTORY MANAGEMENT",
+            "function": "INVENTORY ADJUST",
+            "method": "PRINT"
+        },
+        {
+            "id": 1354,
+            "code": "WH.IM.IA.RC",
+            "module": "WAREHOUSE",
+            "group": "INVENTORY MANAGEMENT",
+            "function": "INVENTORY ADJUST",
+            "method": "RECHECK"
+        },
+        {
+            "id": 1355,
+            "code": "WH.IM.IA.RJ",
+            "module": "WAREHOUSE",
+            "group": "INVENTORY MANAGEMENT",
+            "function": "INVENTORY ADJUST",
+            "method": "REJECT"
+        },
+        {
+            "id": 1356,
+            "code": "WH.IM.IA.VW",
+            "module": "WAREHOUSE",
+            "group": "INVENTORY MANAGEMENT",
+            "function": "INVENTORY ADJUST",
+            "method": "VIEW"
+        },
+        {
+            "id": 1357,
+            "code": "WH.IM.IC.AC",
+            "module": "WAREHOUSE",
+            "group": "INVENTORY MANAGEMENT",
+            "function": "INVENTORY CHECK",
+            "method": "ACCEPT"
+        },
+        {
+            "id": 1358,
+            "code": "WH.IM.IC.AP",
+            "module": "WAREHOUSE",
+            "group": "INVENTORY MANAGEMENT",
+            "function": "INVENTORY CHECK",
+            "method": "APPROVE"
+        },
+        {
+            "id": 1359,
+            "code": "WH.IM.IC.CA",
+            "module": "WAREHOUSE",
+            "group": "INVENTORY MANAGEMENT",
+            "function": "INVENTORY CHECK",
+            "method": "CONFIRM ADJUST"
+        },
+        {
+            "id": 1360,
+            "code": "WH.IM.IC.DL",
+            "module": "WAREHOUSE",
+            "group": "INVENTORY MANAGEMENT",
+            "function": "INVENTORY CHECK",
+            "method": "DELETE"
+        },
+        {
+            "id": 1361,
+            "code": "WH.IM.IC.EP",
+            "module": "WAREHOUSE",
+            "group": "INVENTORY MANAGEMENT",
+            "function": "INVENTORY CHECK",
+            "method": "EXPORT"
+        },
+        {
+            "id": 1362,
+            "code": "WH.IM.IC.FN",
+            "module": "WAREHOUSE",
+            "group": "INVENTORY MANAGEMENT",
+            "function": "INVENTORY CHECK",
+            "method": "FINISH"
+        },
+        {
+            "id": 1363,
+            "code": "WH.IM.IC.IP",
+            "module": "WAREHOUSE",
+            "group": "INVENTORY MANAGEMENT",
+            "function": "INVENTORY CHECK",
+            "method": "IMPORT"
+        },
+        {
+            "id": 1364,
+            "code": "WH.IM.IC.IS",
+            "module": "WAREHOUSE",
+            "group": "INVENTORY MANAGEMENT",
+            "function": "INVENTORY CHECK",
+            "method": "INSPECT"
+        },
+        {
+            "id": 1365,
+            "code": "WH.IM.IC.MD",
+            "module": "WAREHOUSE",
+            "group": "INVENTORY MANAGEMENT",
+            "function": "INVENTORY CHECK",
+            "method": "MODIFY"
+        },
+        {
+            "id": 1366,
+            "code": "WH.IM.IC.PT",
+            "module": "WAREHOUSE",
+            "group": "INVENTORY MANAGEMENT",
+            "function": "INVENTORY CHECK",
+            "method": "PRINT"
+        },
+        {
+            "id": 1367,
+            "code": "WH.IM.IC.RC",
+            "module": "WAREHOUSE",
+            "group": "INVENTORY MANAGEMENT",
+            "function": "INVENTORY CHECK",
+            "method": "RECHECK"
+        },
+        {
+            "id": 1368,
+            "code": "WH.IM.IC.RJ",
+            "module": "WAREHOUSE",
+            "group": "INVENTORY MANAGEMENT",
+            "function": "INVENTORY CHECK",
+            "method": "REJECT"
+        },
+        {
+            "id": 1369,
+            "code": "WH.IM.IC.VW",
+            "module": "WAREHOUSE",
+            "group": "INVENTORY MANAGEMENT",
+            "function": "INVENTORY CHECK",
+            "method": "VIEW"
+        },
+        {
+            "id": 1370,
+            "code": "WH.IM.IP.IS",
+            "module": "WAREHOUSE",
+            "group": "INVENTORY MANAGEMENT",
+            "function": "INVENTORY PERIOD",
+            "method": "INSPECT"
+        },
+        {
+            "id": 1371,
+            "code": "WH.IM.IP.RC",
+            "module": "WAREHOUSE",
+            "group": "INVENTORY MANAGEMENT",
+            "function": "INVENTORY PERIOD",
+            "method": "RECHECK"
+        },
+        {
+            "id": 1372,
+            "code": "WH.RP.IB.EP",
+            "module": "WAREHOUSE",
+            "group": "REPORT",
+            "function": "IN-OUT BALANCE",
+            "method": "EXPORT"
+        },
+        {
+            "id": 1373,
+            "code": "WH.RP.IB.PT",
+            "module": "WAREHOUSE",
+            "group": "REPORT",
+            "function": "IN-OUT BALANCE",
+            "method": "PRINT"
+        },
+        {
+            "id": 1374,
+            "code": "WH.RP.IB.VW",
+            "module": "WAREHOUSE",
+            "group": "REPORT",
+            "function": "IN-OUT BALANCE",
+            "method": "VIEW"
+        },
+        {
+            "id": 1375,
+            "code": "WH.RP.OB.EP",
+            "module": "WAREHOUSE",
+            "group": "REPORT",
+            "function": "ON-HAND BALANCE",
+            "method": "EXPORT"
+        },
+        {
+            "id": 1376,
+            "code": "WH.RP.OB.PT",
+            "module": "WAREHOUSE",
+            "group": "REPORT",
+            "function": "ON-HAND BALANCE",
+            "method": "PRINT"
+        },
+        {
+            "id": 1377,
+            "code": "WH.RP.OB.VW",
+            "module": "WAREHOUSE",
+            "group": "REPORT",
+            "function": "ON-HAND BALANCE",
+            "method": "VIEW"
+        },
+        {
+            "id": 1378,
+            "code": "WH.RP.PR.EP",
+            "module": "WAREHOUSE",
+            "group": "REPORT",
+            "function": "PURCHASE RECEIPTS REPORT",
+            "method": "EXPORT"
+        },
+        {
+            "id": 1379,
+            "code": "WH.RP.PR.PT",
+            "module": "WAREHOUSE",
+            "group": "REPORT",
+            "function": "PURCHASE RECEIPTS REPORT",
+            "method": "PRINT"
+        },
+        {
+            "id": 1380,
+            "code": "WH.RP.PR.VW",
+            "module": "WAREHOUSE",
+            "group": "REPORT",
+            "function": "PURCHASE RECEIPTS REPORT",
+            "method": "VIEW"
+        },
+        {
+            "id": 1383,
+            "code": "WH.RM.PO.VW",
+            "module": "WAREHOUSE",
+            "group": "RAW MATERIALS",
+            "function": "PURCHASE ORDER",
+            "method": "VIEW"
+        },
+        {
+            "id": 1384,
+            "code": "WH.RM.PO.MD",
+            "module": "WAREHOUSE",
+            "group": "RAW MATERIALS",
+            "function": "PURCHASE ORDER",
+            "method": "MODIFY"
+        },
+        {
+            "id": 1385,
+            "code": "WH.RM.PO.DL",
+            "module": "WAREHOUSE",
+            "group": "RAW MATERIALS",
+            "function": "PURCHASE ORDER",
+            "method": "DELETE"
+        },
+        {
+            "id": 1386,
+            "code": "WH.RM.PO.IP",
+            "module": "WAREHOUSE",
+            "group": "RAW MATERIALS",
+            "function": "PURCHASE ORDER",
+            "method": "IMPORT"
+        },
+        {
+            "id": 1387,
+            "code": "WH.RM.PO.EP",
+            "module": "WAREHOUSE",
+            "group": "RAW MATERIALS",
+            "function": "PURCHASE ORDER",
+            "method": "EXPORT"
+        },
+        {
+            "id": 1388,
+            "code": "WH.RM.PO.PT",
+            "module": "WAREHOUSE",
+            "group": "RAW MATERIALS",
+            "function": "PURCHASE ORDER",
+            "method": "PRINT"
+        },
+        {
+            "id": 1389,
+            "code": "WH.RM.PO.CA",
+            "module": "WAREHOUSE",
+            "group": "RAW MATERIALS",
+            "function": "PURCHASE ORDER",
+            "method": "CONFIRM ADJUST"
+        },
+        {
+            "id": 1390,
+            "code": "WH.RM.PO.RJ",
+            "module": "WAREHOUSE",
+            "group": "RAW MATERIALS",
+            "function": "PURCHASE ORDER",
+            "method": "REJECT"
+        },
+        {
+            "id": 1391,
+            "code": "WH.RM.PO.AP",
+            "module": "WAREHOUSE",
+            "group": "RAW MATERIALS",
+            "function": "PURCHASE ORDER",
+            "method": "APPROVE"
+        },
+        {
+            "id": 1392,
+            "code": "WH.RM.PO.FN",
+            "module": "WAREHOUSE",
+            "group": "RAW MATERIALS",
+            "function": "PURCHASE ORDER",
+            "method": "FINISH"
+        },
+        {
+            "id": 1393,
+            "code": "WH.RM.PO.AC",
+            "module": "WAREHOUSE",
+            "group": "RAW MATERIALS",
+            "function": "PURCHASE ORDER",
+            "method": "ACCEPT"
+        },
+        {
+            "id": 1394,
+            "code": "WH.RM.PO.IS",
+            "module": "WAREHOUSE",
+            "group": "RAW MATERIALS",
+            "function": "PURCHASE ORDER",
+            "method": "INSPECT"
+        },
+        {
+            "id": 1395,
+            "code": "WH.RM.PO.RC",
+            "module": "WAREHOUSE",
+            "group": "RAW MATERIALS",
+            "function": "PURCHASE ORDER",
+            "method": "RECHECK"
+        },
+        {
+            "id": 1396,
+            "code": "WH.RM.GR.VW",
+            "module": "WAREHOUSE",
+            "group": "RAW MATERIALS",
+            "function": "GOODS RECEIPTS",
+            "method": "VIEW"
+        },
+        {
+            "id": 1397,
+            "code": "WH.RM.GR.MD",
+            "module": "WAREHOUSE",
+            "group": "RAW MATERIALS",
+            "function": "GOODS RECEIPTS",
+            "method": "MODIFY"
+        },
+        {
+            "id": 1398,
+            "code": "WH.RM.GR.DL",
+            "module": "WAREHOUSE",
+            "group": "RAW MATERIALS",
+            "function": "GOODS RECEIPTS",
+            "method": "DELETE"
+        },
+        {
+            "id": 1399,
+            "code": "WH.RM.GR.IP",
+            "module": "WAREHOUSE",
+            "group": "RAW MATERIALS",
+            "function": "GOODS RECEIPTS",
+            "method": "IMPORT"
+        },
+        {
+            "id": 1400,
+            "code": "WH.RM.GR.EP",
+            "module": "WAREHOUSE",
+            "group": "RAW MATERIALS",
+            "function": "GOODS RECEIPTS",
+            "method": "EXPORT"
+        },
+        {
+            "id": 1401,
+            "code": "WH.RM.GR.PT",
+            "module": "WAREHOUSE",
+            "group": "RAW MATERIALS",
+            "function": "GOODS RECEIPTS",
+            "method": "PRINT"
+        },
+        {
+            "id": 1402,
+            "code": "WH.RM.GR.CA",
+            "module": "WAREHOUSE",
+            "group": "RAW MATERIALS",
+            "function": "GOODS RECEIPTS",
+            "method": "CONFIRM ADJUST"
+        },
+        {
+            "id": 1403,
+            "code": "WH.RM.GR.RJ",
+            "module": "WAREHOUSE",
+            "group": "RAW MATERIALS",
+            "function": "GOODS RECEIPTS",
+            "method": "REJECT"
+        },
+        {
+            "id": 1404,
+            "code": "WH.RM.GR.AP",
+            "module": "WAREHOUSE",
+            "group": "RAW MATERIALS",
+            "function": "GOODS RECEIPTS",
+            "method": "APPROVE"
+        },
+        {
+            "id": 1405,
+            "code": "WH.RM.GR.FN",
+            "module": "WAREHOUSE",
+            "group": "RAW MATERIALS",
+            "function": "GOODS RECEIPTS",
+            "method": "FINISH"
+        },
+        {
+            "id": 1406,
+            "code": "WH.RM.GR.AC",
+            "module": "WAREHOUSE",
+            "group": "RAW MATERIALS",
+            "function": "GOODS RECEIPTS",
+            "method": "ACCEPT"
+        },
+        {
+            "id": 1407,
+            "code": "WH.RM.GR.IS",
+            "module": "WAREHOUSE",
+            "group": "RAW MATERIALS",
+            "function": "GOODS RECEIPTS",
+            "method": "INSPECT"
+        },
+        {
+            "id": 1408,
+            "code": "WH.RM.GR.RC",
+            "module": "WAREHOUSE",
+            "group": "RAW MATERIALS",
+            "function": "GOODS RECEIPTS",
+            "method": "RECHECK"
+        },
+        {
+            "id": 1409,
+            "code": "WH.RM.GI.VW",
+            "module": "WAREHOUSE",
+            "group": "RAW MATERIALS",
+            "function": "GOOD ISSUE",
+            "method": "VIEW"
+        },
+        {
+            "id": 1410,
+            "code": "WH.RM.GI.MD",
+            "module": "WAREHOUSE",
+            "group": "RAW MATERIALS",
+            "function": "GOOD ISSUE",
+            "method": "MODIFY"
+        },
+        {
+            "id": 1411,
+            "code": "WH.RM.GI.DL",
+            "module": "WAREHOUSE",
+            "group": "RAW MATERIALS",
+            "function": "GOOD ISSUE",
+            "method": "DELETE"
+        },
+        {
+            "id": 1412,
+            "code": "WH.RM.GI.IP",
+            "module": "WAREHOUSE",
+            "group": "RAW MATERIALS",
+            "function": "GOOD ISSUE",
+            "method": "IMPORT"
+        },
+        {
+            "id": 1413,
+            "code": "WH.RM.GI.EP",
+            "module": "WAREHOUSE",
+            "group": "RAW MATERIALS",
+            "function": "GOOD ISSUE",
+            "method": "EXPORT"
+        },
+        {
+            "id": 1201,
+            "code": "BV.BVF.BV.DL",
+            "module": "BIG VIEW",
+            "group": "BIG VIEW FUNCTION",
+            "function": "BIG VIEW",
+            "method": "DELETE"
+        },
+        {
+            "id": 1202,
+            "code": "BV.BVF.BV.MD",
+            "module": "BIG VIEW",
+            "group": "BIG VIEW FUNCTION",
+            "function": "BIG VIEW",
+            "method": "MODIFY"
+        },
+        {
+            "id": 1439,
+            "code": "OT.MD.RK.DL",
+            "module": "ORCHESTRATION",
+            "group": "MASTER DATA MANAGEMENT",
+            "function": "RACK",
+            "method": "DELETE"
+        },
+        {
+            "id": 1440,
+            "code": "OT.MD.RK.MD",
+            "module": "ORCHESTRATION",
+            "group": "MASTER DATA MANAGEMENT",
+            "function": "RACK",
+            "method": "MODIFY"
+        },
+        {
+            "id": 1203,
+            "code": "BV.BVF.BV.VW",
+            "module": "BIG VIEW",
+            "group": "BIG VIEW FUNCTION",
+            "function": "BIG VIEW",
+            "method": "VIEW"
+        },
+        {
+            "id": 1204,
+            "code": "OT.MD.CF.DL",
+            "module": "ORCHESTRATION",
+            "group": "MASTER DATA MANAGEMENT",
+            "function": "CERTIFICATE",
+            "method": "DELETE"
+        },
+        {
+            "id": 1205,
+            "code": "OT.MD.CF.MD",
+            "module": "ORCHESTRATION",
+            "group": "MASTER DATA MANAGEMENT",
+            "function": "CERTIFICATE",
+            "method": "MODIFY"
+        },
+        {
+            "id": 1206,
+            "code": "OT.MD.CF.VW",
+            "module": "ORCHESTRATION",
+            "group": "MASTER DATA MANAGEMENT",
+            "function": "CERTIFICATE",
+            "method": "VIEW"
+        },
+        {
+            "id": 1207,
+            "code": "OT.MD.CU.DL",
+            "module": "ORCHESTRATION",
+            "group": "MASTER DATA MANAGEMENT",
+            "function": "CUSTOMER",
+            "method": "DELETE"
+        },
+        {
+            "id": 1208,
+            "code": "OT.MD.CU.MD",
+            "module": "ORCHESTRATION",
+            "group": "MASTER DATA MANAGEMENT",
+            "function": "CUSTOMER",
+            "method": "MODIFY"
+        },
+        {
+            "id": 1209,
+            "code": "OT.MD.CU.VW",
+            "module": "ORCHESTRATION",
+            "group": "MASTER DATA MANAGEMENT",
+            "function": "CUSTOMER",
+            "method": "VIEW"
+        },
+        {
+            "id": 1448,
+            "code": "OT.IN.BA.DL",
+            "module": "ORCHESTRATION",
+            "group": "INSPECTION MANAGEMENT",
+            "function": "BALLOT",
+            "method": "DELETE"
+        },
+        {
+            "id": 1449,
+            "code": "OT.IN.BA.MD",
+            "module": "ORCHESTRATION",
+            "group": "INSPECTION MANAGEMENT",
+            "function": "BALLOT",
+            "method": "MODIFY"
+        },
+        {
+            "id": 1450,
+            "code": "OT.IN.BA.VW",
+            "module": "ORCHESTRATION",
+            "group": "INSPECTION MANAGEMENT",
+            "function": "BALLOT",
+            "method": "VIEW"
+        },
+        {
+            "id": 1210,
+            "code": "OT.MD.DT.DL",
+            "module": "ORCHESTRATION",
+            "group": "MASTER DATA MANAGEMENT",
+            "function": "DAY OFF TYPES",
+            "method": "DELETE"
+        },
+        {
+            "id": 1211,
+            "code": "OT.MD.DT.MD",
+            "module": "ORCHESTRATION",
+            "group": "MASTER DATA MANAGEMENT",
+            "function": "DAY OFF TYPES",
+            "method": "MODIFY"
+        },
+        {
+            "id": 1212,
+            "code": "OT.MD.DT.VW",
+            "module": "ORCHESTRATION",
+            "group": "MASTER DATA MANAGEMENT",
+            "function": "DAY OFF TYPES",
+            "method": "VIEW"
+        },
+        {
+            "id": 1539,
+            "code": "OT.SS.SES.DL",
+            "module": "ORCHESTRATION",
+            "group": "SYSTEM SETTINGS",
+            "function": "SCHEDULE SETTINGS",
+            "method": "DELETE"
+        },
+        {
+            "id": 1554,
+            "code": "PR.PF.BW.DL",
+            "module": "PRODUCTION",
+            "group": "PRODUCTION-FUNCTION",
+            "function": "undefined",
+            "method": "DELETE"
+        },
+        {
+            "id": 1555,
+            "code": "PR.PF.BW.MD",
+            "module": "PRODUCTION",
+            "group": "PRODUCTION-FUNCTION",
+            "function": "undefined",
+            "method": "MODIFY"
+        },
+        {
+            "id": 1556,
+            "code": "PR.PF.BW.VW",
+            "module": "PRODUCTION",
+            "group": "PRODUCTION-FUNCTION",
+            "function": "undefined",
+            "method": "VIEW"
+        },
+        {
+            "id": 1595,
+            "code": "UA.SM.AT.DL",
+            "module": "UAA",
+            "group": "SYSTEM MANAGEMENT",
+            "function": "AUTHENTICATION",
+            "method": "DELETE"
+        },
+        {
+            "id": 1596,
+            "code": "UA.SM.AT.MD",
+            "module": "UAA",
+            "group": "SYSTEM MANAGEMENT",
+            "function": "AUTHENTICATION",
+            "method": "MODIFY"
+        },
+        {
+            "id": 1597,
+            "code": "UA.SM.AT.VW",
+            "module": "UAA",
+            "group": "SYSTEM MANAGEMENT",
+            "function": "AUTHENTICATION",
+            "method": "VIEW"
+        },
+        {
+            "id": 1598,
+            "code": "UA.SM.AZ.DL",
+            "module": "UAA",
+            "group": "SYSTEM MANAGEMENT",
+            "function": "AUTHORIZATION",
+            "method": "DELETE"
+        },
+        {
+            "id": 1599,
+            "code": "UA.SM.AZ.MD",
+            "module": "UAA",
+            "group": "SYSTEM MANAGEMENT",
+            "function": "AUTHORIZATION",
+            "method": "MODIFY"
+        },
+        {
+            "id": 1600,
+            "code": "UA.SM.AZ.VW",
+            "module": "UAA",
+            "group": "SYSTEM MANAGEMENT",
+            "function": "AUTHORIZATION",
+            "method": "VIEW"
+        },
+        {
+            "id": 1601,
+            "code": "UA.SM.LS.MD",
+            "module": "UAA",
+            "group": "SYSTEM MANAGEMENT",
+            "function": "LICENSE",
+            "method": "MODIFY"
+        },
+        {
+            "id": 1602,
+            "code": "UA.SM.LS.VW",
+            "module": "UAA",
+            "group": "SYSTEM MANAGEMENT",
+            "function": "LICENSE",
+            "method": "VIEW"
+        },
+        {
+            "id": 1433,
+            "code": "OT.MD.EP.VW",
+            "module": "ORCHESTRATION",
+            "group": "MASTER DATA MANAGEMENT",
+            "function": "EMPLOYEE",
+            "method": "VIEW"
+        },
+        {
+            "id": 1434,
+            "code": "OT.MD.EP.DL",
+            "module": "ORCHESTRATION",
+            "group": "MASTER DATA MANAGEMENT",
+            "function": "EMPLOYEE",
+            "method": "DELETE"
+        },
+        {
+            "id": 1435,
+            "code": "OT.MD.EP.MD",
+            "module": "ORCHESTRATION",
+            "group": "MASTER DATA MANAGEMENT",
+            "function": "EMPLOYEE",
+            "method": "MODIFY"
+        },
+        {
+            "id": 1436,
+            "code": "OT.MD.EP.IP",
+            "module": "ORCHESTRATION",
+            "group": "MASTER DATA MANAGEMENT",
+            "function": "EMPLOYEE",
+            "method": "IMPORT"
+        },
+        {
+            "id": 1218,
+            "code": "OT.MD.FAC.VW",
+            "module": "ORCHESTRATION",
+            "group": "MASTER DATA MANAGEMENT",
+            "function": "FACTORY",
+            "method": "VIEW"
+        },
+        {
+            "id": 1219,
+            "code": "OT.MD.HC.DL",
+            "module": "ORCHESTRATION",
+            "group": "MASTER DATA MANAGEMENT",
+            "function": "HIERACHY",
+            "method": "DELETE"
+        },
+        {
+            "id": 1220,
+            "code": "OT.MD.HC.MD",
+            "module": "ORCHESTRATION",
+            "group": "MASTER DATA MANAGEMENT",
+            "function": "HIERACHY",
+            "method": "MODIFY"
+        },
+        {
+            "id": 1221,
+            "code": "OT.MD.HC.VW",
+            "module": "ORCHESTRATION",
+            "group": "MASTER DATA MANAGEMENT",
+            "function": "HIERACHY",
+            "method": "VIEW"
+        },
+        {
+            "id": 1222,
+            "code": "OT.MD.IT.DL",
+            "module": "ORCHESTRATION",
+            "group": "MASTER DATA MANAGEMENT",
+            "function": "ITEM",
+            "method": "DELETE"
+        },
+        {
+            "id": 1223,
+            "code": "OT.MD.IT.MD",
+            "module": "ORCHESTRATION",
+            "group": "MASTER DATA MANAGEMENT",
+            "function": "ITEM",
+            "method": "MODIFY"
+        },
+        {
+            "id": 1224,
+            "code": "OT.MD.IT.VW",
+            "module": "ORCHESTRATION",
+            "group": "MASTER DATA MANAGEMENT",
+            "function": "ITEM",
+            "method": "VIEW"
+        },
+        {
+            "id": 1225,
+            "code": "OT.MD.LN.DL",
+            "module": "ORCHESTRATION",
+            "group": "MASTER DATA MANAGEMENT",
+            "function": "LINE",
+            "method": "DELETE"
+        },
+        {
+            "id": 1226,
+            "code": "OT.MD.LN.MD",
+            "module": "ORCHESTRATION",
+            "group": "MASTER DATA MANAGEMENT",
+            "function": "LINE",
+            "method": "MODIFY"
+        },
+        {
+            "id": 1227,
+            "code": "OT.MD.LN.VW",
+            "module": "ORCHESTRATION",
+            "group": "MASTER DATA MANAGEMENT",
+            "function": "LINE",
+            "method": "VIEW"
+        },
+        {
+            "id": 2445,
+            "code": "WH.RP.ISQ.VW",
+            "module": "WAREHOUSE",
+            "group": "REPORT",
+            "function": "INVENTORY STATISTICS HDVN",
+            "method": "VIEW"
+        },
+        {
+            "id": 2446,
+            "code": "WH.RP.ISQ.MD",
+            "module": "WAREHOUSE",
+            "group": "REPORT",
+            "function": "INVENTORY STATISTICS HDVN",
+            "method": "MODIFY"
+        },
+        {
+            "id": 2447,
+            "code": "WH.RP.ICV.VW",
+            "module": "WAREHOUSE",
+            "group": "REPORT",
+            "function": "INVENTORY CHART HDVN",
+            "method": "VIEW"
+        },
+        {
+            "id": 2448,
+            "code": "WH.RP.ICV.CMT",
+            "module": "WAREHOUSE",
+            "group": "REPORT",
+            "function": "INVENTORY CHART HDVN",
+            "method": "COMMENT"
+        },
+        {
+            "id": 2449,
+            "code": "WH.RP.TRH.VW",
+            "module": "WAREHOUSE",
+            "group": "REPORT",
+            "function": "TRACEABILITY HDVN",
+            "method": "VIEW"
+        },
+        {
+            "id": 2450,
+            "code": "WH.RP.TRH.EP",
+            "module": "WAREHOUSE",
+            "group": "REPORT",
+            "function": "TRACEABILITY HDVN",
+            "method": "EXPORT"
+        },
+        {
+            "id": 2451,
+            "code": "WH.RP.TRH.CMT",
+            "module": "WAREHOUSE",
+            "group": "REPORT",
+            "function": "TRACEABILITY HDVN",
+            "method": "COMMENT"
+        },
+        {
+            "id": 2452,
+            "code": "OT.SS.BP.VW",
+            "module": "ORCHESTRATION",
+            "group": "SETTING",
+            "function": "BOM AND BOP",
+            "method": "VIEW"
+        },
+        {
+            "id": 1215,
+            "code": "OT.MD.DM.VW",
+            "module": "ORCHESTRATION",
+            "group": "MASTER DATA MANAGEMENT",
+            "function": "DEFECT MANAGEMENT",
+            "method": "VIEW"
+        },
+        {
+            "id": 1214,
+            "code": "OT.MD.DM.MD",
+            "module": "ORCHESTRATION",
+            "group": "MASTER DATA MANAGEMENT",
+            "function": "DEFECT MANAGEMENT",
+            "method": "MODIFY"
+        },
+        {
+            "id": 1213,
+            "code": "OT.MD.DM.DL",
+            "module": "ORCHESTRATION",
+            "group": "MASTER DATA MANAGEMENT",
+            "function": "DEFECT MANAGEMENT",
+            "method": "DELETE"
+        },
+        {
+            "id": 2444,
+            "code": "WH.RP.ISQ.CMT",
+            "module": "WAREHOUSE",
+            "group": "REPORT",
+            "function": "INVENTORY STATISTICS HDVN",
+            "method": "COMMENT"
+        },
+        {
+            "id": 2481,
+            "code": "WH.RP.RIS.CMT",
+            "module": "WAREHOUSE",
+            "group": "REPORT",
+            "function": "RESERVE INVENTORY STATISTICS",
+            "method": "COMMENT"
+        },
+        {
+            "id": 2482,
+            "code": "WH.RP.RIS.VW",
+            "module": "WAREHOUSE",
+            "group": "REPORT",
+            "function": "RESERVE INVENTORY STATISTICS",
+            "method": "VIEW"
+        },
+        {
+            "id": 2483,
+            "code": "WH.RP.RIS.MD",
+            "module": "WAREHOUSE",
+            "group": "REPORT",
+            "function": "RESERVE INVENTORY STATISTICS",
+            "method": "MODIFY"
+        },
+        {
+            "id": 2489,
+            "code": "OT.MD.DC.VW",
+            "module": "ORCHESTRATION",
+            "group": "MASTER DATA MANAGEMENT",
+            "function": "DEFECT COST",
+            "method": "VIEW"
+        },
+        {
+            "id": 2490,
+            "code": "OT.MD.DC.MD",
+            "module": "ORCHESTRATION",
+            "group": "MASTER DATA MANAGEMENT",
+            "function": "DEFECT COST",
+            "method": "MODIFY"
+        },
+        {
+            "id": 2491,
+            "code": "OT.MD.DC.DL",
+            "module": "ORCHESTRATION",
+            "group": "MASTER DATA MANAGEMENT",
+            "function": "DEFECT COST",
+            "method": "DELETE"
+        },
+        {
+            "id": 2492,
+            "code": "OT.SS.LAS.VW",
+            "module": "ORCHESTRATION",
+            "group": "SYSTEM SETTINGS",
+            "function": "LAYOUT SETTINGS",
+            "method": "VIEW"
+        },
+        {
+            "id": 2493,
+            "code": "OT.SS.LAS.MD",
+            "module": "ORCHESTRATION",
+            "group": "SYSTEM SETTINGS",
+            "function": "LAYOUT SETTINGS",
+            "method": "MODIFY"
+        },
+        {
+            "id": 2494,
+            "code": "OT.SS.LAS.DL",
+            "module": "ORCHESTRATION",
+            "group": "SYSTEM SETTINGS",
+            "function": "LAYOUT SETTINGS",
+            "method": "DELETE"
+        },
+        {
+            "id": 2495,
+            "code": "QL.IN.BA.AP",
+            "module": "QUALITY",
+            "group": "INSPECTION MANAGEMENT",
+            "function": "RELEASING ORDER",
+            "method": "APPROVE"
+        },
+        {
+            "id": 2496,
+            "code": "QL.IN.BA.RJ",
+            "module": "QUALITY",
+            "group": "INSPECTION MANAGEMENT",
+            "function": "RELEASING ORDER",
+            "method": "REJECT"
+        },
+        {
+            "id": 2500,
+            "code": "PR.PDA.LIR.EX",
+            "module": "PRODUCTION",
+            "group": "PDA",
+            "function": "LOT INFORMATION RECORDING",
+            "method": "EXECUTE"
+        },
+        {
+            "id": 2501,
+            "code": "PR.PDA.RIGR.EX",
+            "module": "PRODUCTION",
+            "group": "PDA",
+            "function": "RE-IMPORT GOODS RECORDING",
+            "method": "EXECUTE"
+        },
+        {
+            "id": 2502,
+            "code": "PR.PDA.RGR.EX",
+            "module": "PRODUCTION",
+            "group": "PDA",
+            "function": "RESERVED GOODS RECORDING",
+            "method": "EXECUTE"
+        },
+        {
+            "id": 2503,
+            "code": "PR.PDA.RIR.EX",
+            "module": "PRODUCTION",
+            "group": "PDA",
+            "function": "RETAIL ITEM RECORDING",
+            "method": "EXECUTE"
+        },
+        {
+            "id": 2497,
+            "code": "QL.IN.IO.UD",
+            "module": "QUALITY",
+            "group": "INSPECTION MANAGEMENT",
+            "function": "INSPECTION ORDER",
+            "method": "STRICTLY-UPDATE"
+        },
+        {
+            "id": 2476,
+            "code": "OT.MD.DEM.VW",
+            "module": "ORCHESTRATION",
+            "group": "MASTER DATA MANAGEMENT",
+            "function": "DEFECT MANAGEMENT",
+            "method": "VIEW"
+        },
+        {
+            "id": 2477,
+            "code": "OT.MD.DEM.MD",
+            "module": "ORCHESTRATION",
+            "group": "MASTER DATA MANAGEMENT",
+            "function": "DEFECT MANAGEMENT",
+            "method": "MODIFY"
+        },
+        {
+            "id": 2478,
+            "code": "OT.MD.DEM.DL",
+            "module": "ORCHESTRATION",
+            "group": "MASTER DATA MANAGEMENT",
+            "function": "DEFECT MANAGEMENT",
+            "method": "DELETE"
+        },
+        {
+            "id": 2479,
+            "code": "OT.MD.DEM.EP",
+            "module": "ORCHESTRATION",
+            "group": "MASTER DATA MANAGEMENT",
+            "function": "DEFECT MANAGEMENT",
+            "method": "EXPORT"
+        },
+        {
+            "id": 2480,
+            "code": "OT.MD.DEM.IP",
+            "module": "ORCHESTRATION",
+            "group": "MASTER DATA MANAGEMENT",
+            "function": "DEFECT MANAGEMENT",
+            "method": "IMPORT"
+        },
+        {
+            "id": 2645,
+            "code": "PR.PF.SF.DL",
+            "module": "PRODUCTION",
+            "group": "PRODUCTION PLAN",
+            "function": "SALE FORECAST",
+            "method": "DELETE"
+        },
+        {
+            "id": 2646,
+            "code": "PR.PF.SF.IP",
+            "module": "PRODUCTION",
+            "group": "PRODUCTION PLAN",
+            "function": "SALE FORECAST",
+            "method": "IMPORT"
+        },
+        {
+            "id": 2647,
+            "code": "PR.PF.SF.MD",
+            "module": "PRODUCTION",
+            "group": "PRODUCTION PLAN",
+            "function": "SALE FORECAST",
+            "method": "MODIFY"
+        },
+        {
+            "id": 2648,
+            "code": "PR.PF.SF.VW",
+            "module": "PRODUCTION",
+            "group": "PRODUCTION PLAN",
+            "function": "SALE FORECAST",
+            "method": "VIEW"
+        },
+        {
+            "id": 2674,
+            "code": "QL.IN.SAO.CC",
+            "module": "QUALITY",
+            "group": "INSPECTION MANAGEMENT",
+            "function": "SAMPLING ORDER",
+            "method": "CANCEL"
+        },
+        {
+            "id": 2675,
+            "code": "QL.IN.SAO.PT",
+            "module": "QUALITY",
+            "group": "INSPECTION MANAGEMENT",
+            "function": "SAMPLING ORDER",
+            "method": "PRINT"
+        },
+        {
+            "id": 2783,
+            "code": "WH.RP.TR.CMT",
+            "module": "WAREHOUSE",
+            "group": "REPORT",
+            "function": "TRANSACTION REPORT",
+            "method": "COMMENT"
+        },
+        {
+            "id": 2166,
+            "code": "WH.RM.TR.VW",
+            "module": "WAREHOUSE",
+            "group": "RAW MATERIALS",
+            "function": "TRANSACTION REPORT",
+            "method": "VIEW"
+        },
+        {
+            "id": 2167,
+            "code": "WH.RM.TR.EP",
+            "module": "WAREHOUSE",
+            "group": "RAW MATERIALS",
+            "function": "TRANSACTION REPORT",
+            "method": "EXPORT"
+        },
+        {
+            "id": 1414,
+            "code": "WH.RM.GI.PT",
+            "module": "WAREHOUSE",
+            "group": "RAW MATERIALS",
+            "function": "GOOD ISSUE",
+            "method": "PRINT"
+        },
+        {
+            "id": 1415,
+            "code": "WH.RM.GI.CA",
+            "module": "WAREHOUSE",
+            "group": "RAW MATERIALS",
+            "function": "GOOD ISSUE",
+            "method": "CONFIRM ADJUST"
+        },
+        {
+            "id": 1416,
+            "code": "WH.RM.GI.RJ",
+            "module": "WAREHOUSE",
+            "group": "RAW MATERIALS",
+            "function": "GOOD ISSUE",
+            "method": "REJECT"
+        },
+        {
+            "id": 1417,
+            "code": "WH.RM.GI.AP",
+            "module": "WAREHOUSE",
+            "group": "RAW MATERIALS",
+            "function": "GOOD ISSUE",
+            "method": "APPROVE"
+        },
+        {
+            "id": 1418,
+            "code": "WH.RM.GI.FN",
+            "module": "WAREHOUSE",
+            "group": "RAW MATERIALS",
+            "function": "GOOD ISSUE",
+            "method": "FINISH"
+        },
+        {
+            "id": 1419,
+            "code": "WH.RM.GI.AC",
+            "module": "WAREHOUSE",
+            "group": "RAW MATERIALS",
+            "function": "GOOD ISSUE",
+            "method": "ACCEPT"
+        },
+        {
+            "id": 1420,
+            "code": "WH.RM.GI.IS",
+            "module": "WAREHOUSE",
+            "group": "RAW MATERIALS",
+            "function": "GOOD ISSUE",
+            "method": "INSPECT"
+        },
+        {
+            "id": 1421,
+            "code": "WH.RM.GI.RC",
+            "module": "WAREHOUSE",
+            "group": "RAW MATERIALS",
+            "function": "GOOD ISSUE",
+            "method": "RECHECK"
+        },
+        {
+            "id": 1422,
+            "code": "WH.RM.LSE.VW",
+            "module": "WAREHOUSE",
+            "group": "RAW MATERIALS",
+            "function": "LOT SEPARATION",
+            "method": "VIEW"
+        },
+        {
+            "id": 1423,
+            "code": "WH.RM.LSE.MD",
+            "module": "WAREHOUSE",
+            "group": "RAW MATERIALS",
+            "function": "LOT SEPARATION",
+            "method": "MODIFY"
+        },
+        {
+            "id": 1424,
+            "code": "WH.RM.GIE.VW",
+            "module": "WAREHOUSE",
+            "group": "RAW MATERIALS",
+            "function": "GOODS ISSUE EXECUTION",
+            "method": "VIEW"
+        },
+        {
+            "id": 1425,
+            "code": "WH.RM.GIE.MD",
+            "module": "WAREHOUSE",
+            "group": "RAW MATERIALS",
+            "function": "GOODS ISSUE EXECUTION",
+            "method": "MODIFY"
+        },
+        {
+            "id": 1426,
+            "code": "WH.RM.GRE.VW",
+            "module": "WAREHOUSE",
+            "group": "RAW MATERIALS",
+            "function": "GOODS RECEIPTS EXECUTION",
+            "method": "VIEW"
+        },
+        {
+            "id": 1427,
+            "code": "WH.RM.GRE.MD",
+            "module": "WAREHOUSE",
+            "group": "RAW MATERIALS",
+            "function": "GOODS RECEIPTS EXECUTION",
+            "method": "MODIFY"
+        },
+        {
+            "id": 1428,
+            "code": "WH.RM.GT.VW",
+            "module": "WAREHOUSE",
+            "group": "RAW MATERIALS",
+            "function": "GOODS TRANSFERS",
+            "method": "VIEW"
+        },
+        {
+            "id": 1429,
+            "code": "WH.RM.GT.MD",
+            "module": "WAREHOUSE",
+            "group": "RAW MATERIALS",
+            "function": "GOODS TRANSFERS",
+            "method": "MODIFY"
+        },
+        {
+            "id": 1430,
+            "code": "WH.RM.GT.DL",
+            "module": "WAREHOUSE",
+            "group": "RAW MATERIALS",
+            "function": "GOODS TRANSFERS",
+            "method": "DELETE"
+        },
+        {
+            "id": 1431,
+            "code": "WH.RM.GTE.VW",
+            "module": "WAREHOUSE",
+            "group": "RAW MATERIALS",
+            "function": "GOODS TRANSFERS EXECUTION",
+            "method": "VIEW"
+        },
+        {
+            "id": 1432,
+            "code": "WH.RM.GTE.MD",
+            "module": "WAREHOUSE",
+            "group": "RAW MATERIALS",
+            "function": "GOODS TRANSFERS EXECUTION",
+            "method": "MODIFY"
+        },
+        {
+            "id": 2439,
+            "code": "WH.RP.TR.VW",
+            "module": "WAREHOUSE",
+            "group": "REPORT",
+            "function": "TRANSACTION REPORT",
+            "method": "VIEW"
+        },
+        {
+            "id": 2440,
+            "code": "WH.RP.TR.EP",
+            "module": "WAREHOUSE",
+            "group": "REPORT",
+            "function": "TRANSACTION REPORT",
+            "method": "EXPORT"
+        },
+        {
+            "id": 1451,
+            "code": "PR.PF.PE.VW",
+            "module": "PRODUCTION",
+            "group": "PRODUCTION PLAN",
+            "function": "PRODUCTION EXECUTION",
+            "method": "VIEW"
+        },
+        {
+            "id": 1452,
+            "code": "PR.PF.PE.MD",
+            "module": "PRODUCTION",
+            "group": "PRODUCTION PLAN",
+            "function": "PRODUCTION EXECUTION",
+            "method": "MODIFY"
+        },
+        {
+            "id": 1453,
+            "code": "PR.PF.PE.DL",
+            "module": "PRODUCTION",
+            "group": "PRODUCTION PLAN",
+            "function": "PRODUCTION EXECUTION",
+            "method": "DELETE"
+        }
+    ]
