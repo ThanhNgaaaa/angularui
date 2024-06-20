@@ -3,7 +3,7 @@
         "id": 1,
         "code": "FIC",
         "name": "Fiction",
-        "description": "Books that are created from the imagination of the author.",
+        "description": "Created from the imagination of the author.",
         "subCategories": [
             "Romance",
             "Science Fiction",
@@ -14,7 +14,7 @@
         "id": 2,
         "code": "NON",
         "name": "Non-fiction",
-        "description": "Books based on real-life events, facts, and information.",
+        "description": "Based on real-life events, facts, and information.",
         "subCategories": [
             "Biography",
             "History",
@@ -25,7 +25,7 @@
         "id": 3,
         "code": "FAN",
         "name": "Fantasy",
-        "description": "Books that involve magic, mythical creatures, and imaginary worlds.",
+        "description": "Involving magic, mythical creatures, and imaginary worlds.",
         "subCategories": [
             "Epic Fantasy",
             "Urban Fantasy",
@@ -36,7 +36,7 @@
         "id": 4,
         "code": "THR",
         "name": "Thriller",
-        "description": "Books that create intense excitement, suspense, and anticipation.",
+        "description": "Creating ingintense excitement, suspense, and anticipation.",
         "subCategories": [
             "Psychological Thriller",
             "Crime Thriller",
@@ -47,7 +47,7 @@
         "id": 5,
         "code": "YOU",
         "name": "Young",
-        "description": "Books aimed at teenage readers, typically featuring young protagonists.",
+        "description": "Aiming at teenage readers, typically featuring young protagonists.",
         "subCategories": [
             "Dystopian",
             "Contemporary",
@@ -58,7 +58,7 @@
         "id": 6,
         "code": "SCI",
         "name": "Science",
-        "description": "Books that explore scientific concepts, theories, and discoveries.",
+        "description": "Exploring scientific concepts, theories, and discoveries.",
         "subCategories": [
             "Astronomy",
             "Biology",
@@ -69,7 +69,7 @@
         "id": 7,
         "code": "HOR",
         "name": "Horror",
-        "description": "Books that evoke a sense of fear, dread, and terror in readers.",
+        "description": "Evoking a sense of fear, dread, and terror in readers.",
         "subCategories": [
             "Supernatural",
             "Psychological Horror"
@@ -79,7 +79,7 @@
         "id": 8,
         "code": "HIS",
         "name": "Historical Fiction",
-        "description": "Books that are set in the past and incorporate fictional elements.",
+        "description": "Seting in the past and incorporate fictional elements.",
         "subCategories": [
             "World War II",
             "Ancient Civilizations"
@@ -89,13 +89,13 @@
         "id": 9,
         "code": "VER",
         "name": "Victorian Era",
-        "description": "Books that are set during the reign of Queen Victoria in the 19th century."
+        "description": "Seting during the reign of Queen Victoria in the 19th century."
     },
     {
         "id": 10,
         "code": "POE",
         "name": "Poetry",
-        "description": "Books that use language to evoke emotions and express ideas artistically.",
+        "description": "Using language to evoke emotions and express ideas artistically.",
         "subCategories": [
             "Love Poems",
             "Sonnets"
@@ -105,7 +105,7 @@
         "id": 11,
         "code": "BUS",
         "name": "Business",
-        "description": "Books that provide insights and strategies for the world of commerce.",
+        "description": "Providing insights and strategies for the world of commerce.",
         "subCategories": [
             "Entrepreneurship",
             "Leadership"
@@ -115,13 +115,13 @@
         "id": 12,
         "code": "MAR",
         "name": "Marketing",
-        "description": "Books that explore various marketing strategies and tactics."
+        "description": "Exploring various marketing strategies and tactics."
     },
     {
         "id": 13,
         "code": "MEM",
         "name": "Memory",
-        "description": "Books that recount personal experiences and memories of the author.",
+        "description": "Recounting personal experiences and memories of the author.",
         "subCategories": [
             "Travel Memory",
             "Celebrity Memory"
@@ -131,7 +131,7 @@
         "id": 14,
         "code": "EMO",
         "name": "Emotional",
-        "description": "Books that delve into the author's emotional journey and personal growth."
+        "description": " delve iingnto the author's emotional journey and personal growth."
     },
     {
         "id": 16,
