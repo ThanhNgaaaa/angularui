@@ -1,0 +1,41 @@
+ {
+        "id": 2,
+        "code": "READMORE2024",
+        "discount": 76,
+        "expirationDate": "541248123000",
+        "books": [
+            {
+                "title": "sem duis aliquam convallis nunc proin at turpis a pede posuere nonummy integer non velit donec diam",
+                "author": "aliquet maecenas leo odio condimentum id luctus nec molestie sed justo pellentesque viverra pede ac diam",
+                "price": 62417.38,
+                "genre": "historical fiction",
+                "isBestseller": false
+            },
+            {
+                "title": "orci luctus et ultrices posuere cubilia curae nulla dapibus dolor",
+                "author": "dolor vel est donec odio justo sollicitudin ut suscipit a feugiat et eros vestibulum ac est lacinia nisi venenatis tristique",
+                "price": 45709.95,
+                "genre": "historical fiction",
+                "isBestseller": false
+            },
+            {
+                "title": "sit amet turpis elementum ligula vehicula consequat morbi a ipsum integer a nibh",
+                "author": "ultricies eu nibh quisque id justo sit amet sapien dignissim vestibulum vestibulum ante ipsum primis in faucibus",
+                "price": 18999.89,
+                "genre": "fantasy",
+                "isBestseller": true
+            },
+            {
+                "title": "nunc rhoncus dui vel sem sed sagittis nam congue risus semper porta volutpat",
+                "author": "eget rutrum at lorem integer tincidunt ante vel ipsum praesent blandit lacinia erat vestibulum sed magna at nunc commodo placerat",
+                "price": 64754.6,
+                "genre": "romance",
+                "isBestseller": true
+            }
+        ],
+        "termsAndConditions": "Sed ante. Vivamus tortor. Duis mattis egestas metus.Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.",
+        "minimumPurchaseAmount": 694.45,
+        "applicableRegions": "France",
+        "usageCount": 57,
+        "usageLimit": 45
+    }
